@@ -7,3 +7,4 @@ where i represents the loop iteration starting from 0 and going to the maximum n
 Performance analysis of the two parallel execution models, was carried out with a range of values for Max_Num_ITE starting with of 100 million and stopping at 2.1 billion. As for the number of cores each parallelization model implemented are 2, 4, 8, and 16 cores.
 
 The results are shown in the report.
+# P1_C-Language_pthreads-vs-OpenMp
