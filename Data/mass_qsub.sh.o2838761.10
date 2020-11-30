@@ -1,0 +1,798 @@
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 6250000 
+myID = 13 startPos = 81250000 endPos = 87500000 
+myID = 1 startPos = 6250000 endPos = 12500000 
+myID = 14 startPos = 87500000 endPos = 93750000 
+myID = 7 startPos = 43750000 endPos = 50000000 
+myID = 8 startPos = 50000000 endPos = 56250000 
+myID = 12 startPos = 75000000 endPos = 81250000 
+myID = 11 startPos = 68750000 endPos = 75000000 
+myID = 10 startPos = 62500000 endPos = 68750000 
+myID = 9 startPos = 56250000 endPos = 62500000 
+myID = 5 startPos = 31250000 endPos = 37500000 
+myID = 15 startPos = 93750000 endPos = 100000000 
+myID = 2 startPos = 12500000 endPos = 18750000 
+myID = 4 startPos = 25000000 endPos = 31250000 
+myID = 6 startPos = 37500000 endPos = 43750000 
+myID = 3 startPos = 18750000 endPos = 25000000 
+Main: program completed. Exiting.
+DATA, 314159265.858982, 100000000, 167.349000, 1276, 16 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 43750000 endPos = 50000000 
+myID = 3 startPos = 18750000 endPos = 25000000 
+myID = 8 startPos = 50000000 endPos = 56250000 
+myID = 14 startPos = 87500000 endPos = 93750000 
+myID = 1 startPos = 6250000 endPos = 12500000 
+myID = 2 startPos = 12500000 endPos = 18750000 
+myID = 9 startPos = 56250000 endPos = 62500000 
+myID = 11 startPos = 68750000 endPos = 75000000 
+myID = 4 startPos = 25000000 endPos = 31250000 
+myID = 0 startPos = 0 endPos = 6250000 
+myID = 10 startPos = 62500000 endPos = 68750000 
+myID = 5 startPos = 31250000 endPos = 37500000 
+myID = 15 startPos = 93750000 endPos = 100000000 
+myID = 12 startPos = 75000000 endPos = 81250000 
+myID = 13 startPos = 81250000 endPos = 87500000 
+myID = 6 startPos = 37500000 endPos = 43750000 
+Main: program completed. Exiting.
+DATA, 314159265.858982, 100000000, 127.290000, 1356, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 12500000 
+myID = 1 startPos = 12500000 endPos = 25000000 
+myID = 9 startPos = 112500000 endPos = 125000000 
+myID = 10 startPos = 125000000 endPos = 137500000 
+myID = 7 startPos = 87500000 endPos = 100000000 
+myID = 5 startPos = 62500000 endPos = 75000000 
+myID = 2 startPos = 25000000 endPos = 37500000 
+myID = 11 startPos = 137500000 endPos = 150000000 
+myID = 15 startPos = 187500000 endPos = 200000000 
+myID = 14 startPos = 175000000 endPos = 187500000 
+myID = 13 startPos = 162500000 endPos = 175000000 
+myID = 8 startPos = 100000000 endPos = 112500000 
+myID = 12 startPos = 150000000 endPos = 162500000 
+myID = 4 startPos = 50000000 endPos = 62500000 
+myID = 6 startPos = 75000000 endPos = 87500000 
+myID = 3 startPos = 37500000 endPos = 50000000 
+Main: program completed. Exiting.
+DATA, 628318531.217963, 200000000, 837.129000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 75000000 endPos = 87500000 
+myID = 14 startPos = 175000000 endPos = 187500000 
+myID = 7 startPos = 87500000 endPos = 100000000 
+myID = 11 startPos = 137500000 endPos = 150000000 
+myID = 1 startPos = 12500000 endPos = 25000000 
+myID = 4 startPos = 50000000 endPos = 62500000 
+myID = 15 startPos = 187500000 endPos = 200000000 
+myID = 10 startPos = 125000000 endPos = 137500000 
+myID = 2 startPos = 25000000 endPos = 37500000 
+myID = 3 startPos = 37500000 endPos = 50000000 
+myID = 12 startPos = 150000000 endPos = 162500000 
+myID = 0 startPos = 0 endPos = 12500000 
+myID = 13 startPos = 162500000 endPos = 175000000 
+myID = 9 startPos = 112500000 endPos = 125000000 
+myID = 8 startPos = 100000000 endPos = 112500000 
+myID = 5 startPos = 62500000 endPos = 75000000 
+Main: program completed. Exiting.
+DATA, 628318531.217963, 200000000, 249.832000, 1460, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 18750000 
+myID = 15 startPos = 281250000 endPos = 300000000 
+myID = 1 startPos = 18750000 endPos = 37500000 
+myID = 7 startPos = 131250000 endPos = 150000000 
+myID = 8 startPos = 150000000 endPos = 168750000 
+myID = 5 startPos = 93750000 endPos = 112500000 
+myID = 9 startPos = 168750000 endPos = 187500000 
+myID = 2 startPos = 37500000 endPos = 56250000 
+myID = 10 startPos = 187500000 endPos = 206250000 
+myID = 6 startPos = 112500000 endPos = 131250000 
+myID = 3 startPos = 56250000 endPos = 75000000 
+myID = 14 startPos = 262500000 endPos = 281250000 
+myID = 4 startPos = 75000000 endPos = 93750000 
+myID = 11 startPos = 206250000 endPos = 225000000 
+myID = 13 startPos = 243750000 endPos = 262500000 
+myID = 12 startPos = 225000000 endPos = 243750000 
+Main: program completed. Exiting.
+DATA, 942477796.576921, 300000000, 256.198000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 13 startPos = 243750000 endPos = 262500000 
+myID = 3 startPos = 56250000 endPos = 75000000 
+myID = 9 startPos = 168750000 endPos = 187500000 
+myID = 4 startPos = 75000000 endPos = 93750000 
+myID = 0 startPos = 0 endPos = 18750000 
+myID = 1 startPos = 18750000 endPos = 37500000 
+myID = 5 startPos = 93750000 endPos = 112500000 
+myID = 2 startPos = 37500000 endPos = 56250000 
+myID = 11 startPos = 206250000 endPos = 225000000 
+myID = 14 startPos = 262500000 endPos = 281250000 
+myID = 10 startPos = 187500000 endPos = 206250000 
+myID = 7 startPos = 131250000 endPos = 150000000 
+myID = 6 startPos = 112500000 endPos = 131250000 
+myID = 15 startPos = 281250000 endPos = 300000000 
+myID = 12 startPos = 225000000 endPos = 243750000 
+myID = 8 startPos = 150000000 endPos = 168750000 
+Main: program completed. Exiting.
+DATA, 942477796.576921, 300000000, 218.419000, 1356, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 25000000 
+myID = 10 startPos = 250000000 endPos = 275000000 
+myID = 9 startPos = 225000000 endPos = 250000000 
+myID = 6 startPos = 150000000 endPos = 175000000 
+myID = 1 startPos = 25000000 endPos = 50000000 
+myID = 11 startPos = 275000000 endPos = 300000000 
+myID = 7 startPos = 175000000 endPos = 200000000 
+myID = 12 startPos = 300000000 endPos = 325000000 
+myID = 8 startPos = 200000000 endPos = 225000000 
+myID = 15 startPos = 375000000 endPos = 400000000 
+myID = 13 startPos = 325000000 endPos = 350000000 
+myID = 14 startPos = 350000000 endPos = 375000000 
+myID = 2 startPos = 50000000 endPos = 75000000 
+myID = 3 startPos = 75000000 endPos = 100000000 
+myID = 5 startPos = 125000000 endPos = 150000000 
+myID = 4 startPos = 100000000 endPos = 125000000 
+Main: program completed. Exiting.
+DATA, 1256637061.935899, 400000000, 334.097000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 9 startPos = 225000000 endPos = 250000000 
+myID = 12 startPos = 300000000 endPos = 325000000 
+myID = 11 startPos = 275000000 endPos = 300000000 
+myID = 2 startPos = 50000000 endPos = 75000000 
+myID = 14 startPos = 350000000 endPos = 375000000 
+myID = 1 startPos = 25000000 endPos = 50000000 
+myID = 10 startPos = 250000000 endPos = 275000000 
+myID = 13 startPos = 325000000 endPos = 350000000 
+myID = 3 startPos = 75000000 endPos = 100000000 
+myID = 0 startPos = 0 endPos = 25000000 
+myID = 15 startPos = 375000000 endPos = 400000000 
+myID = 7 startPos = 175000000 endPos = 200000000 
+myID = 4 startPos = 100000000 endPos = 125000000 
+myID = 8 startPos = 200000000 endPos = 225000000 
+myID = 6 startPos = 150000000 endPos = 175000000 
+myID = 5 startPos = 125000000 endPos = 150000000 
+Main: program completed. Exiting.
+DATA, 1256637061.935899, 400000000, 295.632000, 1484, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 31250000 
+myID = 4 startPos = 125000000 endPos = 156250000 
+myID = 8 startPos = 250000000 endPos = 281250000 
+myID = 9 startPos = 281250000 endPos = 312500000 
+myID = 1 startPos = 31250000 endPos = 62500000 
+myID = 5 startPos = 156250000 endPos = 187500000 
+myID = 10 startPos = 312500000 endPos = 343750000 
+myID = 11 startPos = 343750000 endPos = 375000000 
+myID = 2 startPos = 62500000 endPos = 93750000 
+myID = 12 startPos = 375000000 endPos = 406250000 
+myID = 6 startPos = 187500000 endPos = 218750000 
+myID = 13 startPos = 406250000 endPos = 437500000 
+myID = 3 startPos = 93750000 endPos = 125000000 
+myID = 7 startPos = 218750000 endPos = 250000000 
+myID = 14 startPos = 437500000 endPos = 468750000 
+myID = 15 startPos = 468750000 endPos = 500000000 
+Main: program completed. Exiting.
+DATA, 1570796327.294892, 500000000, 342.024000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 13 startPos = 406250000 endPos = 437500000 
+myID = 14 startPos = 437500000 endPos = 468750000 
+myID = 10 startPos = 312500000 endPos = 343750000 
+myID = 4 startPos = 125000000 endPos = 156250000 
+myID = 0 startPos = 0 endPos = 31250000 
+myID = 3 startPos = 93750000 endPos = 125000000 
+myID = 2 startPos = 62500000 endPos = 93750000 
+myID = 5 startPos = 156250000 endPos = 187500000 
+myID = 8 startPos = 250000000 endPos = 281250000 
+myID = 11 startPos = 343750000 endPos = 375000000 
+myID = 7 startPos = 218750000 endPos = 250000000 
+myID = 15 startPos = 468750000 endPos = 500000000 
+myID = 6 startPos = 187500000 endPos = 218750000 
+myID = 9 startPos = 281250000 endPos = 312500000 
+myID = 12 startPos = 375000000 endPos = 406250000 
+myID = 1 startPos = 31250000 endPos = 62500000 
+Main: program completed. Exiting.
+DATA, 1570796327.294892, 500000000, 334.348000, 1396, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 37500000 
+myID = 1 startPos = 37500000 endPos = 75000000 
+myID = 10 startPos = 375000000 endPos = 412500000 
+myID = 8 startPos = 300000000 endPos = 337500000 
+myID = 11 startPos = 412500000 endPos = 450000000 
+myID = 9 startPos = 337500000 endPos = 375000000 
+myID = 12 startPos = 450000000 endPos = 487500000 
+myID = 15 startPos = 562500000 endPos = 600000000 
+myID = 14 startPos = 525000000 endPos = 562500000 
+myID = 2 startPos = 75000000 endPos = 112500000 
+myID = 13 startPos = 487500000 endPos = 525000000 
+myID = 3 startPos = 112500000 endPos = 150000000 
+myID = 4 startPos = 150000000 endPos = 187500000 
+myID = 5 startPos = 187500000 endPos = 225000000 
+myID = 6 startPos = 225000000 endPos = 262500000 
+myID = 7 startPos = 262500000 endPos = 300000000 
+Main: program completed. Exiting.
+DATA, 1884955592.653910, 600000000, 381.299000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 112500000 endPos = 150000000 
+myID = 6 startPos = 225000000 endPos = 262500000 
+myID = 15 startPos = 562500000 endPos = 600000000 
+myID = 0 startPos = 0 endPos = 37500000 
+myID = 8 startPos = 300000000 endPos = 337500000 
+myID = 12 startPos = 450000000 endPos = 487500000 
+myID = 4 startPos = 150000000 endPos = 187500000 
+myID = 11 startPos = 412500000 endPos = 450000000 
+myID = 10 startPos = 375000000 endPos = 412500000 
+myID = 2 startPos = 75000000 endPos = 112500000 
+myID = 9 startPos = 337500000 endPos = 375000000 
+myID = 5 startPos = 187500000 endPos = 225000000 
+myID = 1 startPos = 37500000 endPos = 75000000 
+myID = 7 startPos = 262500000 endPos = 300000000 
+myID = 14 startPos = 525000000 endPos = 562500000 
+myID = 13 startPos = 487500000 endPos = 525000000 
+Main: program completed. Exiting.
+DATA, 1884955592.653910, 600000000, 354.710000, 1396, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 43750000 
+myID = 10 startPos = 437500000 endPos = 481250000 
+myID = 11 startPos = 481250000 endPos = 525000000 
+myID = 1 startPos = 43750000 endPos = 87500000 
+myID = 4 startPos = 175000000 endPos = 218750000 
+myID = 5 startPos = 218750000 endPos = 262500000 
+myID = 2 startPos = 87500000 endPos = 131250000 
+myID = 6 startPos = 262500000 endPos = 306250000 
+myID = 3 startPos = 131250000 endPos = 175000000 
+myID = 12 startPos = 525000000 endPos = 568750000 
+myID = 13 startPos = 568750000 endPos = 612500000 
+myID = 7 startPos = 306250000 endPos = 350000000 
+myID = 9 startPos = 393750000 endPos = 437500000 
+myID = 14 startPos = 612500000 endPos = 656250000 
+myID = 8 startPos = 350000000 endPos = 393750000 
+myID = 15 startPos = 656250000 endPos = 700000000 
+Main: program completed. Exiting.
+DATA, 2199114858.012902, 700000000, 839.648000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 306250000 endPos = 350000000 
+myID = 5 startPos = 218750000 endPos = 262500000 
+myID = 13 startPos = 568750000 endPos = 612500000 
+myID = 3 startPos = 131250000 endPos = 175000000 
+myID = 2 startPos = 87500000 endPos = 131250000 
+myID = 0 startPos = 0 endPos = 43750000 
+myID = 1 startPos = 43750000 endPos = 87500000 
+myID = 9 startPos = 393750000 endPos = 437500000 
+myID = 15 startPos = 656250000 endPos = 700000000 
+myID = 11 startPos = 481250000 endPos = 525000000 
+myID = 10 startPos = 437500000 endPos = 481250000 
+myID = 14 startPos = 612500000 endPos = 656250000 
+myID = 8 startPos = 350000000 endPos = 393750000 
+myID = 12 startPos = 525000000 endPos = 568750000 
+myID = 4 startPos = 175000000 endPos = 218750000 
+myID = 6 startPos = 262500000 endPos = 306250000 
+Main: program completed. Exiting.
+DATA, 2199114858.012902, 700000000, 441.911000, 1476, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 50000000 
+myID = 1 startPos = 50000000 endPos = 100000000 
+myID = 9 startPos = 450000000 endPos = 500000000 
+myID = 10 startPos = 500000000 endPos = 550000000 
+myID = 8 startPos = 400000000 endPos = 450000000 
+myID = 11 startPos = 550000000 endPos = 600000000 
+myID = 2 startPos = 100000000 endPos = 150000000 
+myID = 12 startPos = 600000000 endPos = 650000000 
+myID = 15 startPos = 750000000 endPos = 800000000 
+myID = 14 startPos = 700000000 endPos = 750000000 
+myID = 13 startPos = 650000000 endPos = 700000000 
+myID = 3 startPos = 150000000 endPos = 200000000 
+myID = 7 startPos = 350000000 endPos = 400000000 
+myID = 6 startPos = 300000000 endPos = 350000000 
+myID = 4 startPos = 200000000 endPos = 250000000 
+myID = 5 startPos = 250000000 endPos = 300000000 
+Main: program completed. Exiting.
+DATA, 2513274123.371850, 800000000, 467.863000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 14 startPos = 700000000 endPos = 750000000 
+myID = 15 startPos = 750000000 endPos = 800000000 
+myID = 0 startPos = 0 endPos = 50000000 
+myID = 7 startPos = 350000000 endPos = 400000000 
+myID = 8 startPos = 400000000 endPos = 450000000 
+myID = 3 startPos = 150000000 endPos = 200000000 
+myID = 10 startPos = 500000000 endPos = 550000000 
+myID = 2 startPos = 100000000 endPos = 150000000 
+myID = 1 startPos = 50000000 endPos = 100000000 
+myID = 12 startPos = 600000000 endPos = 650000000 
+myID = 6 startPos = 300000000 endPos = 350000000 
+myID = 4 startPos = 200000000 endPos = 250000000 
+myID = 11 startPos = 550000000 endPos = 600000000 
+myID = 5 startPos = 250000000 endPos = 300000000 
+myID = 13 startPos = 650000000 endPos = 700000000 
+myID = 9 startPos = 450000000 endPos = 500000000 
+Main: program completed. Exiting.
+DATA, 2513274123.371850, 800000000, 460.259000, 1356, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 56250000 
+myID = 1 startPos = 56250000 endPos = 112500000 
+myID = 14 startPos = 787500000 endPos = 843750000 
+myID = 8 startPos = 450000000 endPos = 506250000 
+myID = 15 startPos = 843750000 endPos = 900000000 
+myID = 9 startPos = 506250000 endPos = 562500000 
+myID = 13 startPos = 731250000 endPos = 787500000 
+myID = 2 startPos = 112500000 endPos = 168750000 
+myID = 10 startPos = 562500000 endPos = 618750000 
+myID = 12 startPos = 675000000 endPos = 731250000 
+myID = 7 startPos = 393750000 endPos = 450000000 
+myID = 6 startPos = 337500000 endPos = 393750000 
+myID = 3 startPos = 168750000 endPos = 225000000 
+myID = 11 startPos = 618750000 endPos = 675000000 
+myID = 5 startPos = 281250000 endPos = 337500000 
+myID = 4 startPos = 225000000 endPos = 281250000 
+Main: program completed. Exiting.
+DATA, 2827433388.730847, 900000000, 505.486000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 393750000 endPos = 450000000 
+myID = 14 startPos = 787500000 endPos = 843750000 
+myID = 8 startPos = 450000000 endPos = 506250000 
+myID = 1 startPos = 56250000 endPos = 112500000 
+myID = 2 startPos = 112500000 endPos = 168750000 
+myID = 11 startPos = 618750000 endPos = 675000000 
+myID = 12 startPos = 675000000 endPos = 731250000 
+myID = 0 startPos = 0 endPos = 56250000 
+myID = 10 startPos = 562500000 endPos = 618750000 
+myID = 9 startPos = 506250000 endPos = 562500000 
+myID = 15 startPos = 843750000 endPos = 900000000 
+myID = 13 startPos = 731250000 endPos = 787500000 
+myID = 5 startPos = 281250000 endPos = 337500000 
+myID = 3 startPos = 168750000 endPos = 225000000 
+myID = 6 startPos = 337500000 endPos = 393750000 
+myID = 4 startPos = 225000000 endPos = 281250000 
+Main: program completed. Exiting.
+DATA, 2827433388.730847, 900000000, 559.290000, 1432, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 62500000 
+myID = 5 startPos = 312500000 endPos = 375000000 
+myID = 4 startPos = 250000000 endPos = 312500000 
+myID = 6 startPos = 375000000 endPos = 437500000 
+myID = 1 startPos = 62500000 endPos = 125000000 
+myID = 14 startPos = 875000000 endPos = 937500000 
+myID = 13 startPos = 812500000 endPos = 875000000 
+myID = 15 startPos = 937500000 endPos = 1000000000 
+myID = 12 startPos = 750000000 endPos = 812500000 
+myID = 11 startPos = 687500000 endPos = 750000000 
+myID = 7 startPos = 437500000 endPos = 500000000 
+myID = 2 startPos = 125000000 endPos = 187500000 
+myID = 10 startPos = 625000000 endPos = 687500000 
+myID = 3 startPos = 187500000 endPos = 250000000 
+myID = 8 startPos = 500000000 endPos = 562500000 
+myID = 9 startPos = 562500000 endPos = 625000000 
+Main: program completed. Exiting.
+DATA, 3141592654.089803, 1000000000, 545.334000, 2928, 16 
+DEBUG: starting loop on (null)
+myID = 4 startPos = 250000000 endPos = 312500000 
+myID = 5 startPos = 312500000 endPos = 375000000 
+myID = 3 startPos = 187500000 endPos = 250000000 
+myID = 13 startPos = 812500000 endPos = 875000000 
+myID = 11 startPos = 687500000 endPos = 750000000 
+myID = 0 startPos = 0 endPos = 62500000 
+myID = 7 startPos = 437500000 endPos = 500000000 
+myID = 2 startPos = 125000000 endPos = 187500000 
+myID = 9 startPos = 562500000 endPos = 625000000 
+myID = 8 startPos = 500000000 endPos = 562500000 
+myID = 1 startPos = 62500000 endPos = 125000000 
+myID = 6 startPos = 375000000 endPos = 437500000 
+myID = 14 startPos = 875000000 endPos = 937500000 
+myID = 15 startPos = 937500000 endPos = 1000000000 
+myID = 10 startPos = 625000000 endPos = 687500000 
+myID = 12 startPos = 750000000 endPos = 812500000 
+Main: program completed. Exiting.
+DATA, 3141592654.089803, 1000000000, 514.099000, 1316, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 68750000 
+myID = 6 startPos = 412500000 endPos = 481250000 
+myID = 7 startPos = 481250000 endPos = 550000000 
+myID = 2 startPos = 137500000 endPos = 206250000 
+myID = 1 startPos = 68750000 endPos = 137500000 
+myID = 3 startPos = 206250000 endPos = 275000000 
+myID = 4 startPos = 275000000 endPos = 343750000 
+myID = 5 startPos = 343750000 endPos = 412500000 
+myID = 8 startPos = 550000000 endPos = 618750000 
+myID = 14 startPos = 962500000 endPos = 1031250000 
+myID = 13 startPos = 893750000 endPos = 962500000 
+myID = 9 startPos = 618750000 endPos = 687500000 
+myID = 11 startPos = 756250000 endPos = 825000000 
+myID = 10 startPos = 687500000 endPos = 756250000 
+myID = 15 startPos = 1031250000 endPos = 1100000000 
+myID = 12 startPos = 825000000 endPos = 893750000 
+Main: program completed. Exiting.
+DATA, 3455751919.448777, 1100000000, 582.904000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 8 startPos = 550000000 endPos = 618750000 
+myID = 11 startPos = 756250000 endPos = 825000000 
+myID = 2 startPos = 137500000 endPos = 206250000 
+myID = 0 startPos = 0 endPos = 68750000 
+myID = 1 startPos = 68750000 endPos = 137500000 
+myID = 3 startPos = 206250000 endPos = 275000000 
+myID = 15 startPos = 1031250000 endPos = 1100000000 
+myID = 6 startPos = 412500000 endPos = 481250000 
+myID = 5 startPos = 343750000 endPos = 412500000 
+myID = 14 startPos = 962500000 endPos = 1031250000 
+myID = 12 startPos = 825000000 endPos = 893750000 
+myID = 4 startPos = 275000000 endPos = 343750000 
+myID = 13 startPos = 893750000 endPos = 962500000 
+myID = 9 startPos = 618750000 endPos = 687500000 
+myID = 10 startPos = 687500000 endPos = 756250000 
+myID = 7 startPos = 481250000 endPos = 550000000 
+Main: program completed. Exiting.
+DATA, 3455751919.448776, 1100000000, 566.230000, 1396, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 75000000 
+myID = 1 startPos = 75000000 endPos = 150000000 
+myID = 14 startPos = 1050000000 endPos = 1125000000 
+myID = 11 startPos = 825000000 endPos = 900000000 
+myID = 9 startPos = 675000000 endPos = 750000000 
+myID = 12 startPos = 900000000 endPos = 975000000 
+myID = 8 startPos = 600000000 endPos = 675000000 
+myID = 6 startPos = 450000000 endPos = 525000000 
+myID = 13 startPos = 975000000 endPos = 1050000000 
+myID = 10 startPos = 750000000 endPos = 825000000 
+myID = 15 startPos = 1125000000 endPos = 1200000000 
+myID = 5 startPos = 375000000 endPos = 450000000 
+myID = 7 startPos = 525000000 endPos = 600000000 
+myID = 2 startPos = 150000000 endPos = 225000000 
+myID = 4 startPos = 300000000 endPos = 375000000 
+myID = 3 startPos = 225000000 endPos = 300000000 
+Main: program completed. Exiting.
+DATA, 3769911184.807863, 1200000000, 626.570000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 13 startPos = 975000000 endPos = 1050000000 
+myID = 0 startPos = 0 endPos = 75000000 
+myID = 15 startPos = 1125000000 endPos = 1200000000 
+myID = 2 startPos = 150000000 endPos = 225000000 
+myID = 9 startPos = 675000000 endPos = 750000000 
+myID = 14 startPos = 1050000000 endPos = 1125000000 
+myID = 1 startPos = 75000000 endPos = 150000000 
+myID = 7 startPos = 525000000 endPos = 600000000 
+myID = 8 startPos = 600000000 endPos = 675000000 
+myID = 3 startPos = 225000000 endPos = 300000000 
+myID = 6 startPos = 450000000 endPos = 525000000 
+myID = 10 startPos = 750000000 endPos = 825000000 
+myID = 11 startPos = 825000000 endPos = 900000000 
+myID = 12 startPos = 900000000 endPos = 975000000 
+myID = 4 startPos = 300000000 endPos = 375000000 
+myID = 5 startPos = 375000000 endPos = 450000000 
+Main: program completed. Exiting.
+DATA, 3769911184.807863, 1200000000, 606.701000, 1428, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 81250000 
+myID = 4 startPos = 325000000 endPos = 406250000 
+myID = 5 startPos = 406250000 endPos = 487500000 
+myID = 1 startPos = 81250000 endPos = 162500000 
+myID = 2 startPos = 162500000 endPos = 243750000 
+myID = 11 startPos = 893750000 endPos = 975000000 
+myID = 12 startPos = 975000000 endPos = 1056250000 
+myID = 15 startPos = 1218750000 endPos = 1300000000 
+myID = 3 startPos = 243750000 endPos = 325000000 
+myID = 13 startPos = 1056250000 endPos = 1137500000 
+myID = 14 startPos = 1137500000 endPos = 1218750000 
+myID = 9 startPos = 731250000 endPos = 812500000 
+myID = 7 startPos = 568750000 endPos = 650000000 
+myID = 6 startPos = 487500000 endPos = 568750000 
+myID = 10 startPos = 812500000 endPos = 893750000 
+myID = 8 startPos = 650000000 endPos = 731250000 
+Main: program completed. Exiting.
+DATA, 4084070450.166758, 1300000000, 809.394000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 8 startPos = 650000000 endPos = 731250000 
+myID = 15 startPos = 1218750000 endPos = 1300000000 
+myID = 0 startPos = 0 endPos = 81250000 
+myID = 2 startPos = 162500000 endPos = 243750000 
+myID = 12 startPos = 975000000 endPos = 1056250000 
+myID = 13 startPos = 1056250000 endPos = 1137500000 
+myID = 9 startPos = 731250000 endPos = 812500000 
+myID = 4 startPos = 325000000 endPos = 406250000 
+myID = 7 startPos = 568750000 endPos = 650000000 
+myID = 10 startPos = 812500000 endPos = 893750000 
+myID = 3 startPos = 243750000 endPos = 325000000 
+myID = 5 startPos = 406250000 endPos = 487500000 
+myID = 6 startPos = 487500000 endPos = 568750000 
+myID = 11 startPos = 893750000 endPos = 975000000 
+myID = 1 startPos = 81250000 endPos = 162500000 
+myID = 14 startPos = 1137500000 endPos = 1218750000 
+Main: program completed. Exiting.
+DATA, 4084070450.166757, 1300000000, 649.985000, 1468, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 87500000 
+myID = 1 startPos = 87500000 endPos = 175000000 
+myID = 13 startPos = 1137500000 endPos = 1225000000 
+myID = 15 startPos = 1312500000 endPos = 1400000000 
+myID = 12 startPos = 1050000000 endPos = 1137500000 
+myID = 7 startPos = 612500000 endPos = 700000000 
+myID = 8 startPos = 700000000 endPos = 787500000 
+myID = 9 startPos = 787500000 endPos = 875000000 
+myID = 11 startPos = 962500000 endPos = 1050000000 
+myID = 6 startPos = 525000000 endPos = 612500000 
+myID = 10 startPos = 875000000 endPos = 962500000 
+myID = 5 startPos = 437500000 endPos = 525000000 
+myID = 4 startPos = 350000000 endPos = 437500000 
+myID = 3 startPos = 262500000 endPos = 350000000 
+myID = 2 startPos = 175000000 endPos = 262500000 
+myID = 14 startPos = 1225000000 endPos = 1312500000 
+Main: program completed. Exiting.
+DATA, 4398229715.525706, 1400000000, 708.747000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 8 startPos = 700000000 endPos = 787500000 
+myID = 6 startPos = 525000000 endPos = 612500000 
+myID = 10 startPos = 875000000 endPos = 962500000 
+myID = 1 startPos = 87500000 endPos = 175000000 
+myID = 3 startPos = 262500000 endPos = 350000000 
+myID = 11 startPos = 962500000 endPos = 1050000000 
+myID = 2 startPos = 175000000 endPos = 262500000 
+myID = 5 startPos = 437500000 endPos = 525000000 
+myID = 7 startPos = 612500000 endPos = 700000000 
+myID = 12 startPos = 1050000000 endPos = 1137500000 
+myID = 0 startPos = 0 endPos = 87500000 
+myID = 15 startPos = 1312500000 endPos = 1400000000 
+myID = 14 startPos = 1225000000 endPos = 1312500000 
+myID = 9 startPos = 787500000 endPos = 875000000 
+myID = 13 startPos = 1137500000 endPos = 1225000000 
+myID = 4 startPos = 350000000 endPos = 437500000 
+Main: program completed. Exiting.
+DATA, 4398229715.525705, 1400000000, 722.062000, 1304, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 93750000 
+myID = 6 startPos = 562500000 endPos = 656250000 
+myID = 7 startPos = 656250000 endPos = 750000000 
+myID = 1 startPos = 93750000 endPos = 187500000 
+myID = 10 startPos = 937500000 endPos = 1031250000 
+myID = 8 startPos = 750000000 endPos = 843750000 
+myID = 11 startPos = 1031250000 endPos = 1125000000 
+myID = 5 startPos = 468750000 endPos = 562500000 
+myID = 15 startPos = 1406250000 endPos = 1500000000 
+myID = 9 startPos = 843750000 endPos = 937500000 
+myID = 12 startPos = 1125000000 endPos = 1218750000 
+myID = 2 startPos = 187500000 endPos = 281250000 
+myID = 13 startPos = 1218750000 endPos = 1312500000 
+myID = 14 startPos = 1312500000 endPos = 1406250000 
+myID = 3 startPos = 281250000 endPos = 375000000 
+myID = 4 startPos = 375000000 endPos = 468750000 
+Main: program completed. Exiting.
+DATA, 4712388980.884678, 1500000000, 748.642000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 4 startPos = 375000000 endPos = 468750000 
+myID = 12 startPos = 1125000000 endPos = 1218750000 
+myID = 8 startPos = 750000000 endPos = 843750000 
+myID = 0 startPos = 0 endPos = 93750000 
+myID = 3 startPos = 281250000 endPos = 375000000 
+myID = 11 startPos = 1031250000 endPos = 1125000000 
+myID = 13 startPos = 1218750000 endPos = 1312500000 
+myID = 10 startPos = 937500000 endPos = 1031250000 
+myID = 7 startPos = 656250000 endPos = 750000000 
+myID = 14 startPos = 1312500000 endPos = 1406250000 
+myID = 2 startPos = 187500000 endPos = 281250000 
+myID = 5 startPos = 468750000 endPos = 562500000 
+myID = 15 startPos = 1406250000 endPos = 1500000000 
+myID = 1 startPos = 93750000 endPos = 187500000 
+myID = 9 startPos = 843750000 endPos = 937500000 
+myID = 6 startPos = 562500000 endPos = 656250000 
+Main: program completed. Exiting.
+DATA, 4712388980.884679, 1500000000, 730.587000, 1316, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 100000000 
+myID = 1 startPos = 100000000 endPos = 200000000 
+myID = 10 startPos = 1000000000 endPos = 1100000000 
+myID = 9 startPos = 900000000 endPos = 1000000000 
+myID = 11 startPos = 1100000000 endPos = 1200000000 
+myID = 15 startPos = 1500000000 endPos = 1600000000 
+myID = 12 startPos = 1200000000 endPos = 1300000000 
+myID = 14 startPos = 1400000000 endPos = 1500000000 
+myID = 2 startPos = 200000000 endPos = 300000000 
+myID = 13 startPos = 1300000000 endPos = 1400000000 
+myID = 3 startPos = 300000000 endPos = 400000000 
+myID = 8 startPos = 800000000 endPos = 900000000 
+myID = 7 startPos = 700000000 endPos = 800000000 
+myID = 4 startPos = 400000000 endPos = 500000000 
+myID = 5 startPos = 500000000 endPos = 600000000 
+myID = 6 startPos = 600000000 endPos = 700000000 
+Main: program completed. Exiting.
+DATA, 5026548246.243556, 1600000000, 812.777000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 700000000 endPos = 800000000 
+myID = 0 startPos = 0 endPos = 100000000 
+myID = 12 startPos = 1200000000 endPos = 1300000000 
+myID = 8 startPos = 800000000 endPos = 900000000 
+myID = 11 startPos = 1100000000 endPos = 1200000000 
+myID = 5 startPos = 500000000 endPos = 600000000 
+myID = 10 startPos = 1000000000 endPos = 1100000000 
+myID = 3 startPos = 300000000 endPos = 400000000 
+myID = 2 startPos = 200000000 endPos = 300000000 
+myID = 9 startPos = 900000000 endPos = 1000000000 
+myID = 1 startPos = 100000000 endPos = 200000000 
+myID = 13 startPos = 1300000000 endPos = 1400000000 
+myID = 14 startPos = 1400000000 endPos = 1500000000 
+myID = 4 startPos = 400000000 endPos = 500000000 
+myID = 6 startPos = 600000000 endPos = 700000000 
+myID = 15 startPos = 1500000000 endPos = 1600000000 
+Main: program completed. Exiting.
+DATA, 5026548246.243555, 1600000000, 817.092000, 1468, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 106250000 
+myID = 12 startPos = 1275000000 endPos = 1381250000 
+myID = 7 startPos = 743750000 endPos = 850000000 
+myID = 1 startPos = 106250000 endPos = 212500000 
+myID = 13 startPos = 1381250000 endPos = 1487500000 
+myID = 15 startPos = 1593750000 endPos = 1700000000 
+myID = 8 startPos = 850000000 endPos = 956250000 
+myID = 14 startPos = 1487500000 endPos = 1593750000 
+myID = 2 startPos = 212500000 endPos = 318750000 
+myID = 9 startPos = 956250000 endPos = 1062500000 
+myID = 11 startPos = 1168750000 endPos = 1275000000 
+myID = 10 startPos = 1062500000 endPos = 1168750000 
+myID = 3 startPos = 318750000 endPos = 425000000 
+myID = 4 startPos = 425000000 endPos = 531250000 
+myID = 5 startPos = 531250000 endPos = 637500000 
+myID = 6 startPos = 637500000 endPos = 743750000 
+Main: program completed. Exiting.
+DATA, 5340707511.602601, 1700000000, 831.913000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 13 startPos = 1381250000 endPos = 1487500000 
+myID = 6 startPos = 637500000 endPos = 743750000 
+myID = 5 startPos = 531250000 endPos = 637500000 
+myID = 8 startPos = 850000000 endPos = 956250000 
+myID = 1 startPos = 106250000 endPos = 212500000 
+myID = 14 startPos = 1487500000 endPos = 1593750000 
+myID = 0 startPos = 0 endPos = 106250000 
+myID = 11 startPos = 1168750000 endPos = 1275000000 
+myID = 15 startPos = 1593750000 endPos = 1700000000 
+myID = 4 startPos = 425000000 endPos = 531250000 
+myID = 3 startPos = 318750000 endPos = 425000000 
+myID = 10 startPos = 1062500000 endPos = 1168750000 
+myID = 9 startPos = 956250000 endPos = 1062500000 
+myID = 2 startPos = 212500000 endPos = 318750000 
+myID = 12 startPos = 1275000000 endPos = 1381250000 
+myID = 7 startPos = 743750000 endPos = 850000000 
+Main: program completed. Exiting.
+DATA, 5340707511.602601, 1700000000, 855.063000, 1460, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 112500000 
+myID = 1 startPos = 112500000 endPos = 225000000 
+myID = 11 startPos = 1237500000 endPos = 1350000000 
+myID = 10 startPos = 1125000000 endPos = 1237500000 
+myID = 2 startPos = 225000000 endPos = 337500000 
+myID = 8 startPos = 900000000 endPos = 1012500000 
+myID = 12 startPos = 1350000000 endPos = 1462500000 
+myID = 9 startPos = 1012500000 endPos = 1125000000 
+myID = 3 startPos = 337500000 endPos = 450000000 
+myID = 7 startPos = 787500000 endPos = 900000000 
+myID = 15 startPos = 1687500000 endPos = 1800000000 
+myID = 14 startPos = 1575000000 endPos = 1687500000 
+myID = 6 startPos = 675000000 endPos = 787500000 
+myID = 4 startPos = 450000000 endPos = 562500000 
+myID = 13 startPos = 1462500000 endPos = 1575000000 
+myID = 5 startPos = 562500000 endPos = 675000000 
+Main: program completed. Exiting.
+DATA, 5654866776.961660, 1800000000, 872.317000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 13 startPos = 1462500000 endPos = 1575000000 
+myID = 6 startPos = 675000000 endPos = 787500000 
+myID = 9 startPos = 1012500000 endPos = 1125000000 
+myID = 14 startPos = 1575000000 endPos = 1687500000 
+myID = 0 startPos = 0 endPos = 112500000 
+myID = 10 startPos = 1125000000 endPos = 1237500000 
+myID = 1 startPos = 112500000 endPos = 225000000 
+myID = 2 startPos = 225000000 endPos = 337500000 
+myID = 3 startPos = 337500000 endPos = 450000000 
+myID = 4 startPos = 450000000 endPos = 562500000 
+myID = 5 startPos = 562500000 endPos = 675000000 
+myID = 7 startPos = 787500000 endPos = 900000000 
+myID = 11 startPos = 1237500000 endPos = 1350000000 
+myID = 12 startPos = 1350000000 endPos = 1462500000 
+myID = 15 startPos = 1687500000 endPos = 1800000000 
+myID = 8 startPos = 900000000 endPos = 1012500000 
+Main: program completed. Exiting.
+DATA, 5654866776.961659, 1800000000, 835.581000, 1356, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 118750000 
+myID = 5 startPos = 593750000 endPos = 712500000 
+myID = 1 startPos = 118750000 endPos = 237500000 
+myID = 6 startPos = 712500000 endPos = 831250000 
+myID = 11 startPos = 1306250000 endPos = 1425000000 
+myID = 7 startPos = 831250000 endPos = 950000000 
+myID = 12 startPos = 1425000000 endPos = 1543750000 
+myID = 8 startPos = 950000000 endPos = 1068750000 
+myID = 2 startPos = 237500000 endPos = 356250000 
+myID = 14 startPos = 1662500000 endPos = 1781250000 
+myID = 13 startPos = 1543750000 endPos = 1662500000 
+myID = 15 startPos = 1781250000 endPos = 1900000000 
+myID = 9 startPos = 1068750000 endPos = 1187500000 
+myID = 3 startPos = 356250000 endPos = 475000000 
+myID = 10 startPos = 1187500000 endPos = 1306250000 
+myID = 4 startPos = 475000000 endPos = 593750000 
+Main: program completed. Exiting.
+DATA, 5969026042.320638, 1900000000, 916.454000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 9 startPos = 1068750000 endPos = 1187500000 
+myID = 5 startPos = 593750000 endPos = 712500000 
+myID = 1 startPos = 118750000 endPos = 237500000 
+myID = 2 startPos = 237500000 endPos = 356250000 
+myID = 0 startPos = 0 endPos = 118750000 
+myID = 14 startPos = 1662500000 endPos = 1781250000 
+myID = 3 startPos = 356250000 endPos = 475000000 
+myID = 6 startPos = 712500000 endPos = 831250000 
+myID = 15 startPos = 1781250000 endPos = 1900000000 
+myID = 11 startPos = 1306250000 endPos = 1425000000 
+myID = 13 startPos = 1543750000 endPos = 1662500000 
+myID = 10 startPos = 1187500000 endPos = 1306250000 
+myID = 12 startPos = 1425000000 endPos = 1543750000 
+myID = 8 startPos = 950000000 endPos = 1068750000 
+myID = 4 startPos = 475000000 endPos = 593750000 
+myID = 7 startPos = 831250000 endPos = 950000000 
+Main: program completed. Exiting.
+DATA, 5969026042.320638, 1900000000, 894.310000, 3352, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 125000000 
+myID = 1 startPos = 125000000 endPos = 250000000 
+myID = 13 startPos = 1625000000 endPos = 1750000000 
+myID = 11 startPos = 1375000000 endPos = 1500000000 
+myID = 14 startPos = 1750000000 endPos = 1875000000 
+myID = 12 startPos = 1500000000 endPos = 1625000000 
+myID = 15 startPos = 1875000000 endPos = 2000000000 
+myID = 10 startPos = 1250000000 endPos = 1375000000 
+myID = 8 startPos = 1000000000 endPos = 1125000000 
+myID = 7 startPos = 875000000 endPos = 1000000000 
+myID = 6 startPos = 750000000 endPos = 875000000 
+myID = 4 startPos = 500000000 endPos = 625000000 
+myID = 3 startPos = 375000000 endPos = 500000000 
+myID = 2 startPos = 250000000 endPos = 375000000 
+myID = 9 startPos = 1125000000 endPos = 1250000000 
+myID = 5 startPos = 625000000 endPos = 750000000 
+Main: program completed. Exiting.
+DATA, 6283185307.679657, 2000000000, 959.339000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 12 startPos = 1500000000 endPos = 1625000000 
+myID = 10 startPos = 1250000000 endPos = 1375000000 
+myID = 5 startPos = 625000000 endPos = 750000000 
+myID = 1 startPos = 125000000 endPos = 250000000 
+myID = 0 startPos = 0 endPos = 125000000 
+myID = 2 startPos = 250000000 endPos = 375000000 
+myID = 4 startPos = 500000000 endPos = 625000000 
+myID = 7 startPos = 875000000 endPos = 1000000000 
+myID = 15 startPos = 1875000000 endPos = 2000000000 
+myID = 14 startPos = 1750000000 endPos = 1875000000 
+myID = 3 startPos = 375000000 endPos = 500000000 
+myID = 8 startPos = 1000000000 endPos = 1125000000 
+myID = 6 startPos = 750000000 endPos = 875000000 
+myID = 11 startPos = 1375000000 endPos = 1500000000 
+myID = 9 startPos = 1125000000 endPos = 1250000000 
+myID = 13 startPos = 1625000000 endPos = 1750000000 
+Main: program completed. Exiting.
+DATA, 6283185307.679656, 2000000000, 972.550000, 1280, 16, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 131250000 
+myID = 15 startPos = 1968750000 endPos = 2100000000 
+myID = 1 startPos = 131250000 endPos = 262500000 
+myID = 13 startPos = 1706250000 endPos = 1837500000 
+myID = 7 startPos = 918750000 endPos = 1050000000 
+myID = 14 startPos = 1837500000 endPos = 1968750000 
+myID = 12 startPos = 1575000000 endPos = 1706250000 
+myID = 4 startPos = 525000000 endPos = 656250000 
+myID = 3 startPos = 393750000 endPos = 525000000 
+myID = 9 startPos = 1181250000 endPos = 1312500000 
+myID = 8 startPos = 1050000000 endPos = 1181250000 
+myID = 6 startPos = 787500000 endPos = 918750000 
+myID = 2 startPos = 262500000 endPos = 393750000 
+myID = 10 startPos = 1312500000 endPos = 1443750000 
+myID = 5 startPos = 656250000 endPos = 787500000 
+myID = 11 startPos = 1443750000 endPos = 1575000000 
+Main: program completed. Exiting.
+DATA, 6597344573.038493, 2100000000, 1029.450000, 1280, 16 
+DEBUG: starting loop on (null)
+myID = 12 startPos = 1575000000 endPos = 1706250000 
+myID = 7 startPos = 918750000 endPos = 1050000000 
+myID = 0 startPos = 0 endPos = 131250000 
+myID = 10 startPos = 1312500000 endPos = 1443750000 
+myID = 15 startPos = 1968750000 endPos = 2100000000 
+myID = 2 startPos = 262500000 endPos = 393750000 
+myID = 1 startPos = 131250000 endPos = 262500000 
+myID = 9 startPos = 1181250000 endPos = 1312500000 
+myID = 8 startPos = 1050000000 endPos = 1181250000 
+myID = 13 startPos = 1706250000 endPos = 1837500000 
+myID = 3 startPos = 393750000 endPos = 525000000 
+myID = 11 startPos = 1443750000 endPos = 1575000000 
+myID = 5 startPos = 656250000 endPos = 787500000 
+myID = 14 startPos = 1837500000 endPos = 1968750000 
+myID = 4 startPos = 525000000 endPos = 656250000 
+myID = 6 startPos = 787500000 endPos = 918750000 
+Main: program completed. Exiting.
+DATA, 6597344573.038494, 2100000000, 995.493000, 1432, 16, OpenMp 

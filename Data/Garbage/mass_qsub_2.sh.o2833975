@@ -1,0 +1,2300 @@
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 50000000 
+myID = 1 startPos = 50000000 endPos = 100000000 
+Main: program completed. Exiting.
+DATA, 314159265.858949, 100000000, 431.872000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 75000000 endPos = 100000000 
+myID = 0 startPos = 0 endPos = 25000000 
+myID = 1 startPos = 25000000 endPos = 50000000 
+myID = 2 startPos = 50000000 endPos = 75000000 
+Main: program completed. Exiting.
+DATA, 314159265.858951, 100000000, 218.506000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 75000000 endPos = 87500000 
+myID = 7 startPos = 87500000 endPos = 100000000 
+myID = 3 startPos = 37500000 endPos = 50000000 
+myID = 0 startPos = 0 endPos = 12500000 
+myID = 4 startPos = 50000000 endPos = 62500000 
+myID = 1 startPos = 12500000 endPos = 25000000 
+myID = 5 startPos = 62500000 endPos = 75000000 
+myID = 2 startPos = 25000000 endPos = 37500000 
+Main: program completed. Exiting.
+DATA, 314159265.858969, 100000000, 106.590000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 100000000 
+myID = 1 startPos = 100000000 endPos = 200000000 
+Main: program completed. Exiting.
+DATA, 628318531.217953, 200000000, 615.488000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 150000000 endPos = 200000000 
+myID = 1 startPos = 50000000 endPos = 100000000 
+myID = 0 startPos = 0 endPos = 50000000 
+myID = 2 startPos = 100000000 endPos = 150000000 
+Main: program completed. Exiting.
+DATA, 628318531.217977, 200000000, 331.726000, 1484, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 175000000 endPos = 200000000 
+myID = 1 startPos = 25000000 endPos = 50000000 
+myID = 0 startPos = 0 endPos = 25000000 
+myID = 6 startPos = 150000000 endPos = 175000000 
+myID = 3 startPos = 75000000 endPos = 100000000 
+myID = 4 startPos = 100000000 endPos = 125000000 
+myID = 5 startPos = 125000000 endPos = 150000000 
+myID = 2 startPos = 50000000 endPos = 75000000 
+Main: program completed. Exiting.
+DATA, 628318531.217959, 200000000, 180.793000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 150000000 
+myID = 1 startPos = 150000000 endPos = 300000000 
+Main: program completed. Exiting.
+DATA, 942477796.576904, 300000000, 1036.061000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 2 startPos = 150000000 endPos = 225000000 
+myID = 3 startPos = 225000000 endPos = 300000000 
+myID = 1 startPos = 75000000 endPos = 150000000 
+myID = 0 startPos = 0 endPos = 75000000 
+Main: program completed. Exiting.
+DATA, 942477796.576870, 300000000, 576.746000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 225000000 endPos = 262500000 
+myID = 7 startPos = 262500000 endPos = 300000000 
+myID = 5 startPos = 187500000 endPos = 225000000 
+myID = 0 startPos = 0 endPos = 37500000 
+myID = 3 startPos = 112500000 endPos = 150000000 
+myID = 4 startPos = 150000000 endPos = 187500000 
+myID = 1 startPos = 37500000 endPos = 75000000 
+myID = 2 startPos = 75000000 endPos = 112500000 
+Main: program completed. Exiting.
+DATA, 942477796.576886, 300000000, 297.768000, 1484, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 200000000 
+myID = 1 startPos = 200000000 endPos = 400000000 
+Main: program completed. Exiting.
+DATA, 1256637061.935830, 400000000, 1270.928000, 1468, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 300000000 endPos = 400000000 
+myID = 0 startPos = 0 endPos = 100000000 
+myID = 1 startPos = 100000000 endPos = 200000000 
+myID = 2 startPos = 200000000 endPos = 300000000 
+Main: program completed. Exiting.
+DATA, 1256637061.935928, 400000000, 727.947000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 350000000 endPos = 400000000 
+myID = 1 startPos = 50000000 endPos = 100000000 
+myID = 3 startPos = 150000000 endPos = 200000000 
+myID = 0 startPos = 0 endPos = 50000000 
+myID = 4 startPos = 200000000 endPos = 250000000 
+myID = 2 startPos = 100000000 endPos = 150000000 
+myID = 5 startPos = 250000000 endPos = 300000000 
+myID = 6 startPos = 300000000 endPos = 350000000 
+Main: program completed. Exiting.
+DATA, 1256637061.935940, 400000000, 361.347000, 1400, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 250000000 
+myID = 1 startPos = 250000000 endPos = 500000000 
+Main: program completed. Exiting.
+DATA, 1570796327.294775, 500000000, 1543.894000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 375000000 endPos = 500000000 
+myID = 2 startPos = 250000000 endPos = 375000000 
+myID = 0 startPos = 0 endPos = 125000000 
+myID = 1 startPos = 125000000 endPos = 250000000 
+Main: program completed. Exiting.
+DATA, 1570796327.294852, 500000000, 828.615000, 1396, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 437500000 endPos = 500000000 
+myID = 0 startPos = 0 endPos = 62500000 
+myID = 1 startPos = 62500000 endPos = 125000000 
+myID = 6 startPos = 375000000 endPos = 437500000 
+myID = 2 startPos = 125000000 endPos = 187500000 
+myID = 4 startPos = 250000000 endPos = 312500000 
+myID = 3 startPos = 187500000 endPos = 250000000 
+myID = 5 startPos = 312500000 endPos = 375000000 
+Main: program completed. Exiting.
+DATA, 1570796327.294868, 500000000, 427.132000, 1428, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 300000000 
+myID = 1 startPos = 300000000 endPos = 600000000 
+Main: program completed. Exiting.
+DATA, 1884955592.653976, 600000000, 1956.111000, 1316, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 450000000 endPos = 600000000 
+myID = 1 startPos = 150000000 endPos = 300000000 
+myID = 0 startPos = 0 endPos = 150000000 
+myID = 2 startPos = 300000000 endPos = 450000000 
+Main: program completed. Exiting.
+DATA, 1884955592.653878, 600000000, 1033.725000, 1468, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 4 startPos = 300000000 endPos = 375000000 
+myID = 2 startPos = 150000000 endPos = 225000000 
+myID = 1 startPos = 75000000 endPos = 150000000 
+myID = 0 startPos = 0 endPos = 75000000 
+myID = 3 startPos = 225000000 endPos = 300000000 
+myID = 7 startPos = 525000000 endPos = 600000000 
+myID = 6 startPos = 450000000 endPos = 525000000 
+myID = 5 startPos = 375000000 endPos = 450000000 
+Main: program completed. Exiting.
+DATA, 1884955592.653870, 600000000, 1058.794000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 350000000 
+myID = 1 startPos = 350000000 endPos = 700000000 
+Main: program completed. Exiting.
+DATA, 2199114858.012869, 700000000, 2251.943000, 1476, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 525000000 endPos = 700000000 
+myID = 1 startPos = 175000000 endPos = 350000000 
+myID = 0 startPos = 0 endPos = 175000000 
+myID = 2 startPos = 350000000 endPos = 525000000 
+Main: program completed. Exiting.
+DATA, 2199114858.012890, 700000000, 1139.436000, 1388, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 437500000 endPos = 525000000 
+myID = 7 startPos = 612500000 endPos = 700000000 
+myID = 1 startPos = 87500000 endPos = 175000000 
+myID = 2 startPos = 175000000 endPos = 262500000 
+myID = 6 startPos = 525000000 endPos = 612500000 
+myID = 3 startPos = 262500000 endPos = 350000000 
+myID = 4 startPos = 350000000 endPos = 437500000 
+myID = 0 startPos = 0 endPos = 87500000 
+Main: program completed. Exiting.
+DATA, 2199114858.012919, 700000000, 1138.775000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 400000000 
+myID = 1 startPos = 400000000 endPos = 800000000 
+Main: program completed. Exiting.
+DATA, 2513274123.371861, 800000000, 2584.794000, 1316, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 600000000 endPos = 800000000 
+myID = 1 startPos = 200000000 endPos = 400000000 
+myID = 0 startPos = 0 endPos = 200000000 
+myID = 2 startPos = 400000000 endPos = 600000000 
+Main: program completed. Exiting.
+DATA, 2513274123.371896, 800000000, 1353.919000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 700000000 endPos = 800000000 
+myID = 1 startPos = 100000000 endPos = 200000000 
+myID = 2 startPos = 200000000 endPos = 300000000 
+myID = 5 startPos = 500000000 endPos = 600000000 
+myID = 6 startPos = 600000000 endPos = 700000000 
+myID = 0 startPos = 0 endPos = 100000000 
+myID = 3 startPos = 300000000 endPos = 400000000 
+myID = 4 startPos = 400000000 endPos = 500000000 
+Main: program completed. Exiting.
+DATA, 2513274123.371828, 800000000, 1507.291000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 450000000 
+myID = 1 startPos = 450000000 endPos = 900000000 
+Main: program completed. Exiting.
+DATA, 2827433388.730740, 900000000, 2759.361000, 1432, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 675000000 endPos = 900000000 
+myID = 1 startPos = 225000000 endPos = 450000000 
+myID = 2 startPos = 450000000 endPos = 675000000 
+myID = 0 startPos = 0 endPos = 225000000 
+Main: program completed. Exiting.
+DATA, 2827433388.730922, 900000000, 1463.158000, 1488, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 787500000 endPos = 900000000 
+myID = 3 startPos = 337500000 endPos = 450000000 
+myID = 4 startPos = 450000000 endPos = 562500000 
+myID = 1 startPos = 112500000 endPos = 225000000 
+myID = 5 startPos = 562500000 endPos = 675000000 
+myID = 6 startPos = 675000000 endPos = 787500000 
+myID = 0 startPos = 0 endPos = 112500000 
+myID = 2 startPos = 225000000 endPos = 337500000 
+Main: program completed. Exiting.
+DATA, 2827433388.730755, 900000000, 1524.924000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 500000000 
+myID = 1 startPos = 500000000 endPos = 1000000000 
+Main: program completed. Exiting.
+DATA, 3141592654.089734, 1000000000, 3069.853000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 250000000 
+myID = 3 startPos = 750000000 endPos = 1000000000 
+myID = 2 startPos = 500000000 endPos = 750000000 
+myID = 1 startPos = 250000000 endPos = 500000000 
+Main: program completed. Exiting.
+DATA, 3141592654.089849, 1000000000, 1623.579000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 750000000 endPos = 875000000 
+myID = 3 startPos = 375000000 endPos = 500000000 
+myID = 4 startPos = 500000000 endPos = 625000000 
+myID = 1 startPos = 125000000 endPos = 250000000 
+myID = 2 startPos = 250000000 endPos = 375000000 
+myID = 7 startPos = 875000000 endPos = 1000000000 
+myID = 5 startPos = 625000000 endPos = 750000000 
+myID = 0 startPos = 0 endPos = 125000000 
+Main: program completed. Exiting.
+DATA, 3141592654.089828, 1000000000, 1553.455000, 1388, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 550000000 
+myID = 1 startPos = 550000000 endPos = 1100000000 
+Main: program completed. Exiting.
+DATA, 3455751919.448778, 1100000000, 3374.836000, 1432, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 825000000 endPos = 1100000000 
+myID = 1 startPos = 275000000 endPos = 550000000 
+myID = 2 startPos = 550000000 endPos = 825000000 
+myID = 0 startPos = 0 endPos = 275000000 
+Main: program completed. Exiting.
+DATA, 3455751919.448775, 1100000000, 1792.924000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 825000000 endPos = 962500000 
+myID = 5 startPos = 687500000 endPos = 825000000 
+myID = 4 startPos = 550000000 endPos = 687500000 
+myID = 1 startPos = 137500000 endPos = 275000000 
+myID = 0 startPos = 0 endPos = 137500000 
+myID = 3 startPos = 412500000 endPos = 550000000 
+myID = 2 startPos = 275000000 endPos = 412500000 
+myID = 7 startPos = 962500000 endPos = 1100000000 
+Main: program completed. Exiting.
+DATA, 3455751919.448753, 1100000000, 1593.371000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 600000000 
+myID = 1 startPos = 600000000 endPos = 1200000000 
+Main: program completed. Exiting.
+DATA, 3769911184.807758, 1200000000, 3672.620000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 900000000 endPos = 1200000000 
+myID = 1 startPos = 300000000 endPos = 600000000 
+myID = 0 startPos = 0 endPos = 300000000 
+myID = 2 startPos = 600000000 endPos = 900000000 
+Main: program completed. Exiting.
+DATA, 3769911184.808002, 1200000000, 1948.243000, 1468, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1050000000 endPos = 1200000000 
+myID = 1 startPos = 150000000 endPos = 300000000 
+myID = 2 startPos = 300000000 endPos = 450000000 
+myID = 0 startPos = 0 endPos = 150000000 
+myID = 4 startPos = 600000000 endPos = 750000000 
+myID = 3 startPos = 450000000 endPos = 600000000 
+myID = 6 startPos = 900000000 endPos = 1050000000 
+myID = 5 startPos = 750000000 endPos = 900000000 
+Main: program completed. Exiting.
+DATA, 3769911184.807855, 1200000000, 2075.630000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 650000000 
+myID = 1 startPos = 650000000 endPos = 1300000000 
+Main: program completed. Exiting.
+DATA, 4084070450.167111, 1300000000, 4004.108000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 975000000 endPos = 1300000000 
+myID = 1 startPos = 325000000 endPos = 650000000 
+myID = 0 startPos = 0 endPos = 325000000 
+myID = 2 startPos = 650000000 endPos = 975000000 
+Main: program completed. Exiting.
+DATA, 4084070450.166992, 1300000000, 2190.285000, 1428, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1137500000 endPos = 1300000000 
+myID = 1 startPos = 162500000 endPos = 325000000 
+myID = 5 startPos = 812500000 endPos = 975000000 
+myID = 0 startPos = 0 endPos = 162500000 
+myID = 2 startPos = 325000000 endPos = 487500000 
+myID = 3 startPos = 487500000 endPos = 650000000 
+myID = 4 startPos = 650000000 endPos = 812500000 
+myID = 6 startPos = 975000000 endPos = 1137500000 
+Main: program completed. Exiting.
+DATA, 4084070450.166802, 1300000000, 1857.333000, 1356, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 700000000 
+myID = 1 startPos = 700000000 endPos = 1400000000 
+Main: program completed. Exiting.
+DATA, 4398229715.525636, 1400000000, 4418.707000, 1488, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1050000000 endPos = 1400000000 
+myID = 0 startPos = 0 endPos = 350000000 
+myID = 2 startPos = 700000000 endPos = 1050000000 
+myID = 1 startPos = 350000000 endPos = 700000000 
+Main: program completed. Exiting.
+DATA, 4398229715.525468, 1400000000, 2363.891000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 875000000 endPos = 1050000000 
+myID = 6 startPos = 1050000000 endPos = 1225000000 
+myID = 3 startPos = 525000000 endPos = 700000000 
+myID = 1 startPos = 175000000 endPos = 350000000 
+myID = 2 startPos = 350000000 endPos = 525000000 
+myID = 4 startPos = 700000000 endPos = 875000000 
+myID = 7 startPos = 1225000000 endPos = 1400000000 
+myID = 0 startPos = 0 endPos = 175000000 
+Main: program completed. Exiting.
+DATA, 4398229715.525615, 1400000000, 2327.948000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 750000000 
+myID = 1 startPos = 750000000 endPos = 1500000000 
+Main: program completed. Exiting.
+DATA, 4712388980.884567, 1500000000, 4730.333000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1125000000 endPos = 1500000000 
+myID = 0 startPos = 0 endPos = 375000000 
+myID = 1 startPos = 375000000 endPos = 750000000 
+myID = 2 startPos = 750000000 endPos = 1125000000 
+Main: program completed. Exiting.
+DATA, 4712388980.884563, 1500000000, 2533.276000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1312500000 endPos = 1500000000 
+myID = 1 startPos = 187500000 endPos = 375000000 
+myID = 3 startPos = 562500000 endPos = 750000000 
+myID = 5 startPos = 937500000 endPos = 1125000000 
+myID = 6 startPos = 1125000000 endPos = 1312500000 
+myID = 0 startPos = 0 endPos = 187500000 
+myID = 4 startPos = 750000000 endPos = 937500000 
+myID = 2 startPos = 375000000 endPos = 562500000 
+Main: program completed. Exiting.
+DATA, 4712388980.884752, 1500000000, 2418.336000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 800000000 
+myID = 1 startPos = 800000000 endPos = 1600000000 
+Main: program completed. Exiting.
+DATA, 5026548246.243865, 1600000000, 5028.631000, 1476, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1200000000 endPos = 1600000000 
+myID = 0 startPos = 0 endPos = 400000000 
+myID = 1 startPos = 400000000 endPos = 800000000 
+myID = 2 startPos = 800000000 endPos = 1200000000 
+Main: program completed. Exiting.
+DATA, 5026548246.243646, 1600000000, 2597.379000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1000000000 endPos = 1200000000 
+myID = 7 startPos = 1400000000 endPos = 1600000000 
+myID = 0 startPos = 0 endPos = 200000000 
+myID = 1 startPos = 200000000 endPos = 400000000 
+myID = 2 startPos = 400000000 endPos = 600000000 
+myID = 3 startPos = 600000000 endPos = 800000000 
+myID = 6 startPos = 1200000000 endPos = 1400000000 
+myID = 4 startPos = 800000000 endPos = 1000000000 
+Main: program completed. Exiting.
+DATA, 5026548246.243632, 1600000000, 2907.702000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 850000000 
+myID = 1 startPos = 850000000 endPos = 1700000000 
+Main: program completed. Exiting.
+DATA, 5340707511.602311, 1700000000, 5222.035000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1275000000 endPos = 1700000000 
+myID = 0 startPos = 0 endPos = 425000000 
+myID = 2 startPos = 850000000 endPos = 1275000000 
+myID = 1 startPos = 425000000 endPos = 850000000 
+Main: program completed. Exiting.
+DATA, 5340707511.602546, 1700000000, 2766.652000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1062500000 endPos = 1275000000 
+myID = 3 startPos = 637500000 endPos = 850000000 
+myID = 2 startPos = 425000000 endPos = 637500000 
+myID = 6 startPos = 1275000000 endPos = 1487500000 
+myID = 1 startPos = 212500000 endPos = 425000000 
+myID = 0 startPos = 0 endPos = 212500000 
+myID = 4 startPos = 850000000 endPos = 1062500000 
+myID = 7 startPos = 1487500000 endPos = 1700000000 
+Main: program completed. Exiting.
+DATA, 5340707511.602695, 1700000000, 2538.739000, 1436, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 900000000 
+myID = 1 startPos = 900000000 endPos = 1800000000 
+Main: program completed. Exiting.
+DATA, 5654866776.961853, 1800000000, 5553.884000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1350000000 endPos = 1800000000 
+myID = 0 startPos = 0 endPos = 450000000 
+myID = 2 startPos = 900000000 endPos = 1350000000 
+myID = 1 startPos = 450000000 endPos = 900000000 
+Main: program completed. Exiting.
+DATA, 5654866776.961696, 1800000000, 2922.885000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1125000000 endPos = 1350000000 
+myID = 7 startPos = 1575000000 endPos = 1800000000 
+myID = 6 startPos = 1350000000 endPos = 1575000000 
+myID = 1 startPos = 225000000 endPos = 450000000 
+myID = 3 startPos = 675000000 endPos = 900000000 
+myID = 2 startPos = 450000000 endPos = 675000000 
+myID = 0 startPos = 0 endPos = 225000000 
+myID = 4 startPos = 900000000 endPos = 1125000000 
+Main: program completed. Exiting.
+DATA, 5654866776.961635, 1800000000, 2693.926000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 950000000 
+myID = 1 startPos = 950000000 endPos = 1900000000 
+Main: program completed. Exiting.
+DATA, 5969026042.320560, 1900000000, 5812.558000, 1468, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1425000000 endPos = 1900000000 
+myID = 0 startPos = 0 endPos = 475000000 
+myID = 1 startPos = 475000000 endPos = 950000000 
+myID = 2 startPos = 950000000 endPos = 1425000000 
+Main: program completed. Exiting.
+DATA, 5969026042.320593, 1900000000, 3082.596000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1187500000 endPos = 1425000000 
+myID = 2 startPos = 475000000 endPos = 712500000 
+myID = 7 startPos = 1662500000 endPos = 1900000000 
+myID = 1 startPos = 237500000 endPos = 475000000 
+myID = 6 startPos = 1425000000 endPos = 1662500000 
+myID = 3 startPos = 712500000 endPos = 950000000 
+myID = 4 startPos = 950000000 endPos = 1187500000 
+myID = 0 startPos = 0 endPos = 237500000 
+Main: program completed. Exiting.
+DATA, 5969026042.320625, 1900000000, 3084.709000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1000000000 
+myID = 1 startPos = 1000000000 endPos = 2000000000 
+Main: program completed. Exiting.
+DATA, 6283185307.679482, 2000000000, 6126.074000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1500000000 endPos = 2000000000 
+myID = 1 startPos = 500000000 endPos = 1000000000 
+myID = 2 startPos = 1000000000 endPos = 1500000000 
+myID = 0 startPos = 0 endPos = 500000000 
+Main: program completed. Exiting.
+DATA, 6283185307.679544, 2000000000, 3240.610000, 1452, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1250000000 endPos = 1500000000 
+myID = 7 startPos = 1750000000 endPos = 2000000000 
+myID = 6 startPos = 1500000000 endPos = 1750000000 
+myID = 1 startPos = 250000000 endPos = 500000000 
+myID = 2 startPos = 500000000 endPos = 750000000 
+myID = 3 startPos = 750000000 endPos = 1000000000 
+myID = 0 startPos = 0 endPos = 250000000 
+myID = 4 startPos = 1000000000 endPos = 1250000000 
+Main: program completed. Exiting.
+DATA, 6283185307.679744, 2000000000, 2915.285000, 1468, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1050000000 
+myID = 1 startPos = 1050000000 endPos = 2100000000 
+Main: program completed. Exiting.
+DATA, 6597344573.038649, 2100000000, 6550.569000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 525000000 
+myID = 3 startPos = 1575000000 endPos = 2100000000 
+myID = 1 startPos = 525000000 endPos = 1050000000 
+myID = 2 startPos = 1050000000 endPos = 1575000000 
+Main: program completed. Exiting.
+DATA, 6597344573.038280, 2100000000, 3402.114000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1312500000 endPos = 1575000000 
+myID = 2 startPos = 525000000 endPos = 787500000 
+myID = 7 startPos = 1837500000 endPos = 2100000000 
+myID = 1 startPos = 262500000 endPos = 525000000 
+myID = 3 startPos = 787500000 endPos = 1050000000 
+myID = 6 startPos = 1575000000 endPos = 1837500000 
+myID = 4 startPos = 1050000000 endPos = 1312500000 
+myID = 0 startPos = 0 endPos = 262500000 
+Main: program completed. Exiting.
+DATA, 6597344573.038442, 2100000000, 3250.524000, 1484, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1100000000 
+myID = 1 startPos = 1100000000 endPos = -2094967296 
+Main: program completed. Exiting.
+DATA, 4080098959.407228, 2200000000, 6549.685000, 1316, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 550000000 
+myID = 3 startPos = 1650000000 endPos = -2094967296 
+myID = 1 startPos = 550000000 endPos = 1100000000 
+myID = 2 startPos = 1100000000 endPos = 1650000000 
+Main: program completed. Exiting.
+DATA, 5662809757.741062, 2200000000, 3389.575000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1925000000 endPos = -2094967296 
+myID = 0 startPos = 0 endPos = 275000000 
+myID = 1 startPos = 275000000 endPos = 550000000 
+myID = 2 startPos = 550000000 endPos = 825000000 
+myID = 3 startPos = 825000000 endPos = 1100000000 
+myID = 5 startPos = 1375000000 endPos = 1650000000 
+myID = 4 startPos = 1100000000 endPos = 1375000000 
+myID = 6 startPos = 1650000000 endPos = 1925000000 
+Main: program completed. Exiting.
+DATA, 6325703997.103831, 2200000000, 3141.263000, 1480, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1150000000 
+myID = 1 startPos = 1150000000 endPos = -1994967296 
+Main: program completed. Exiting.
+DATA, 4265558003.007221, 2300000000, 6737.450000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1725000000 endPos = -1994967296 
+myID = 0 startPos = 0 endPos = 575000000 
+myID = 1 startPos = 575000000 endPos = 1150000000 
+myID = 2 startPos = 1150000000 endPos = 1725000000 
+Main: program completed. Exiting.
+DATA, 5920210201.258099, 2300000000, 3549.609000, 1488, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 2012500000 endPos = -1994967296 
+myID = 1 startPos = 287500000 endPos = 575000000 
+myID = 2 startPos = 575000000 endPos = 862500000 
+myID = 5 startPos = 1437500000 endPos = 1725000000 
+myID = 4 startPos = 1150000000 endPos = 1437500000 
+myID = 6 startPos = 1725000000 endPos = 2012500000 
+myID = 0 startPos = 0 endPos = 287500000 
+myID = 3 startPos = 862500000 endPos = 1150000000 
+Main: program completed. Exiting.
+DATA, 6613235996.952648, 2300000000, 3435.470000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1200000000 
+myID = 1 startPos = 1200000000 endPos = -1894967296 
+Main: program completed. Exiting.
+DATA, 4451017046.607964, 2400000000, 7011.033000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1800000000 endPos = -1894967296 
+myID = 0 startPos = 0 endPos = 600000000 
+myID = 1 startPos = 600000000 endPos = 1200000000 
+myID = 2 startPos = 1200000000 endPos = 1800000000 
+Main: program completed. Exiting.
+DATA, 6177610644.775519, 2400000000, 3809.348000, 1396, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 4 startPos = 1200000000 endPos = 1500000000 
+myID = 1 startPos = 300000000 endPos = 600000000 
+myID = 3 startPos = 900000000 endPos = 1200000000 
+myID = 0 startPos = 0 endPos = 300000000 
+myID = 7 startPos = 2100000000 endPos = -1894967296 
+myID = 2 startPos = 600000000 endPos = 900000000 
+myID = 6 startPos = 1800000000 endPos = 2100000000 
+myID = 5 startPos = 1500000000 endPos = 1800000000 
+Main: program completed. Exiting.
+DATA, 6900767996.801129, 2400000000, 3431.833000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1250000000 
+myID = 1 startPos = 1250000000 endPos = -1794967296 
+Main: program completed. Exiting.
+DATA, 4636476090.207887, 2500000000, 7341.981000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1875000000 endPos = -1794967296 
+myID = 1 startPos = 625000000 endPos = 1250000000 
+myID = 0 startPos = 0 endPos = 625000000 
+myID = 2 startPos = 1250000000 endPos = 1875000000 
+Main: program completed. Exiting.
+DATA, 6435011088.293096, 2500000000, 3968.066000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -2107467296 endPos = -1794967296 
+myID = 0 startPos = 0 endPos = 312500000 
+myID = 2 startPos = 625000000 endPos = 937500000 
+myID = 5 startPos = 1562500000 endPos = 1875000000 
+myID = 6 startPos = 1875000000 endPos = -2107467296 
+myID = 1 startPos = 312500000 endPos = 625000000 
+myID = 4 startPos = 1250000000 endPos = 1562500000 
+myID = 3 startPos = 937500000 endPos = 1250000000 
+Main: program completed. Exiting.
+DATA, 7212136057.914652, 2500000000, 3714.869000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1300000000 
+myID = 1 startPos = 1300000000 endPos = -1694967296 
+Main: program completed. Exiting.
+DATA, 4821935133.808307, 2600000000, 7598.250000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1950000000 endPos = -1694967296 
+myID = 1 startPos = 650000000 endPos = 1300000000 
+myID = 0 startPos = 0 endPos = 650000000 
+myID = 2 startPos = 1300000000 endPos = 1950000000 
+Main: program completed. Exiting.
+DATA, 6692411531.810020, 2600000000, 4098.679000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -2019967296 endPos = -1694967296 
+myID = 1 startPos = 325000000 endPos = 650000000 
+myID = 0 startPos = 0 endPos = 325000000 
+myID = 2 startPos = 650000000 endPos = 975000000 
+myID = 5 startPos = 1625000000 endPos = 1950000000 
+myID = 6 startPos = 1950000000 endPos = -2019967296 
+myID = 4 startPos = 1300000000 endPos = 1625000000 
+myID = 3 startPos = 975000000 endPos = 1300000000 
+Main: program completed. Exiting.
+DATA, 7553380260.686058, 2600000000, 3544.518000, 1304, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1350000000 
+myID = 1 startPos = 1350000000 endPos = -1594967296 
+Main: program completed. Exiting.
+DATA, 5007394177.408525, 2700000000, 7913.224000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 2025000000 endPos = -1594967296 
+myID = 1 startPos = 675000000 endPos = 1350000000 
+myID = 0 startPos = 0 endPos = 675000000 
+myID = 2 startPos = 1350000000 endPos = 2025000000 
+Main: program completed. Exiting.
+DATA, 6949811975.327476, 2700000000, 4162.270000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1932467296 endPos = -1594967296 
+myID = 1 startPos = 337500000 endPos = 675000000 
+myID = 0 startPos = 0 endPos = 337500000 
+myID = 2 startPos = 675000000 endPos = 1012500000 
+myID = 3 startPos = 1012500000 endPos = 1350000000 
+myID = 4 startPos = 1350000000 endPos = 1687500000 
+myID = 6 startPos = 2025000000 endPos = -1932467296 
+myID = 5 startPos = 1687500000 endPos = 2025000000 
+Main: program completed. Exiting.
+DATA, 7896214398.293904, 2700000000, 3687.873000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1400000000 
+myID = 1 startPos = 1400000000 endPos = -1494967296 
+Main: program completed. Exiting.
+DATA, 5192853221.008377, 2800000000, 8491.045000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 2100000000 endPos = -1494967296 
+myID = 1 startPos = 700000000 endPos = 1400000000 
+myID = 0 startPos = 0 endPos = 700000000 
+myID = 2 startPos = 1400000000 endPos = 2100000000 
+Main: program completed. Exiting.
+DATA, 7207212418.844608, 2800000000, 4342.480000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1844967296 endPos = -1494967296 
+myID = 5 startPos = 1750000000 endPos = 2100000000 
+myID = 1 startPos = 350000000 endPos = 700000000 
+myID = 0 startPos = 0 endPos = 350000000 
+myID = 2 startPos = 700000000 endPos = 1050000000 
+myID = 4 startPos = 1400000000 endPos = 1750000000 
+myID = 6 startPos = 2100000000 endPos = -1844967296 
+myID = 3 startPos = 1050000000 endPos = 1400000000 
+Main: program completed. Exiting.
+DATA, 8239926605.678591, 2800000000, 4173.125000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1450000000 
+myID = 1 startPos = 1450000000 endPos = -1394967296 
+Main: program completed. Exiting.
+DATA, 5378312264.609694, 2900000000, 8567.051000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 2 startPos = 1450000000 endPos = -2119967296 
+myID = 3 startPos = -2119967296 endPos = -1394967296 
+myID = 1 startPos = 725000000 endPos = 1450000000 
+myID = 0 startPos = 0 endPos = 725000000 
+Main: program completed. Exiting.
+DATA, 7499878969.816429, 2900000000, 4546.764000, 1356, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1087500000 endPos = 1450000000 
+myID = 1 startPos = 362500000 endPos = 725000000 
+myID = 0 startPos = 0 endPos = 362500000 
+myID = 2 startPos = 725000000 endPos = 1087500000 
+myID = 7 startPos = -1757467296 endPos = -1394967296 
+myID = 6 startPos = -2119967296 endPos = -1757467296 
+myID = 5 startPos = 1812500000 endPos = -2119967296 
+myID = 4 startPos = 1450000000 endPos = 1812500000 
+Main: program completed. Exiting.
+DATA, 8601318763.472984, 2900000000, 3948.729000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1500000000 
+myID = 1 startPos = 1500000000 endPos = -1294967296 
+Main: program completed. Exiting.
+DATA, 5563771308.209576, 3000000000, 8908.992000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -2044967296 endPos = -1294967296 
+myID = 1 startPos = 750000000 endPos = 1500000000 
+myID = 0 startPos = 0 endPos = 750000000 
+myID = 2 startPos = 1500000000 endPos = -2044967296 
+Main: program completed. Exiting.
+DATA, 7853532164.663635, 3000000000, 4727.609000, 1488, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1669967296 endPos = -1294967296 
+myID = 2 startPos = 750000000 endPos = 1125000000 
+myID = 1 startPos = 375000000 endPos = 750000000 
+myID = 0 startPos = 0 endPos = 375000000 
+myID = 3 startPos = 1125000000 endPos = 1500000000 
+myID = 6 startPos = -2044967296 endPos = -1669967296 
+myID = 5 startPos = 1875000000 endPos = -2044967296 
+myID = 4 startPos = 1500000000 endPos = 1875000000 
+Main: program completed. Exiting.
+DATA, 8992952640.857540, 3000000000, 4312.755000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1550000000 
+myID = 1 startPos = 1550000000 endPos = -1194967296 
+Main: program completed. Exiting.
+DATA, 5749230351.809544, 3100000000, 9090.574000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 2 startPos = 1550000000 endPos = -1969967296 
+myID = 3 startPos = -1969967296 endPos = -1194967296 
+myID = 1 startPos = 775000000 endPos = 1550000000 
+myID = 0 startPos = 0 endPos = 775000000 
+Main: program completed. Exiting.
+DATA, 8206591304.426361, 3100000000, 4779.534000, 1492, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = 1937500000 endPos = -1969967296 
+myID = 1 startPos = 387500000 endPos = 775000000 
+myID = 3 startPos = 1162500000 endPos = 1550000000 
+myID = 7 startPos = -1582467296 endPos = -1194967296 
+myID = 4 startPos = 1550000000 endPos = 1937500000 
+myID = 6 startPos = -1969967296 endPos = -1582467296 
+myID = 0 startPos = 0 endPos = 387500000 
+myID = 2 startPos = 775000000 endPos = 1162500000 
+Main: program completed. Exiting.
+DATA, 9383992463.157087, 3100000000, 4465.411000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1600000000 
+myID = 1 startPos = 1600000000 endPos = -1094967296 
+Main: program completed. Exiting.
+DATA, 5934689395.409980, 3200000000, 9328.176000, 1452, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1894967296 endPos = -1094967296 
+myID = 0 startPos = 0 endPos = 800000000 
+myID = 1 startPos = 800000000 endPos = 1600000000 
+myID = 2 startPos = 1600000000 endPos = -1894967296 
+Main: program completed. Exiting.
+DATA, 8558161612.180639, 3200000000, 5061.178000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1494967296 endPos = -1094967296 
+myID = 1 startPos = 400000000 endPos = 800000000 
+myID = 3 startPos = 1200000000 endPos = 1600000000 
+myID = 5 startPos = 2000000000 endPos = -1894967296 
+myID = 4 startPos = 1600000000 endPos = 2000000000 
+myID = 2 startPos = 800000000 endPos = 1200000000 
+myID = 6 startPos = -1894967296 endPos = -1494967296 
+myID = 0 startPos = 0 endPos = 400000000 
+Main: program completed. Exiting.
+DATA, 9773543453.449022, 3200000000, 4250.887000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1650000000 
+myID = 1 startPos = 1650000000 endPos = -994967296 
+Main: program completed. Exiting.
+DATA, 6120148439.010701, 3300000000, 9645.639000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1819967296 endPos = -994967296 
+myID = 0 startPos = 0 endPos = 825000000 
+myID = 2 startPos = 1650000000 endPos = -1819967296 
+myID = 1 startPos = 825000000 endPos = 1650000000 
+Main: program completed. Exiting.
+DATA, 8907473042.327953, 3300000000, 5107.160000, 1452, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = -1819967296 endPos = -1407467296 
+myID = 7 startPos = -1407467296 endPos = -994967296 
+myID = 2 startPos = 825000000 endPos = 1237500000 
+myID = 1 startPos = 412500000 endPos = 825000000 
+myID = 3 startPos = 1237500000 endPos = 1650000000 
+myID = 0 startPos = 0 endPos = 412500000 
+myID = 4 startPos = 1650000000 endPos = 2062500000 
+myID = 5 startPos = 2062500000 endPos = -1819967296 
+Main: program completed. Exiting.
+DATA, 10160835566.132593, 3300000000, 4965.422000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1700000000 
+myID = 1 startPos = 1700000000 endPos = -894967296 
+Main: program completed. Exiting.
+DATA, 6305607482.610771, 3400000000, 9961.766000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1744967296 endPos = -894967296 
+myID = 1 startPos = 850000000 endPos = 1700000000 
+myID = 2 startPos = 1700000000 endPos = -1744967296 
+myID = 0 startPos = 0 endPos = 850000000 
+Main: program completed. Exiting.
+DATA, 9253883166.187723, 3400000000, 5290.738000, 1464, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1319967296 endPos = -894967296 
+myID = 1 startPos = 425000000 endPos = 850000000 
+myID = 2 startPos = 850000000 endPos = 1275000000 
+myID = 0 startPos = 0 endPos = 425000000 
+myID = 4 startPos = 1700000000 endPos = 2125000000 
+myID = 3 startPos = 1275000000 endPos = 1700000000 
+myID = 6 startPos = -1744967296 endPos = -1319967296 
+myID = 5 startPos = 2125000000 endPos = -1744967296 
+Main: program completed. Exiting.
+DATA, 10545226372.530262, 3400000000, 5038.688000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1750000000 
+myID = 1 startPos = 1750000000 endPos = -794967296 
+Main: program completed. Exiting.
+DATA, 6491066526.210907, 3500000000, 10340.211000, 1428, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1669967296 endPos = -794967296 
+myID = 1 startPos = 875000000 endPos = 1750000000 
+myID = 0 startPos = 0 endPos = 875000000 
+myID = 2 startPos = 1750000000 endPos = -1669967296 
+Main: program completed. Exiting.
+DATA, 9596874561.192026, 3500000000, 5386.794000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1232467296 endPos = -794967296 
+myID = 1 startPos = 437500000 endPos = 875000000 
+myID = 0 startPos = 0 endPos = 437500000 
+myID = 5 startPos = -2107467296 endPos = -1669967296 
+myID = 3 startPos = 1312500000 endPos = 1750000000 
+myID = 2 startPos = 875000000 endPos = 1312500000 
+myID = 6 startPos = -1669967296 endPos = -1232467296 
+myID = 4 startPos = 1750000000 endPos = -2107467296 
+Main: program completed. Exiting.
+DATA, 10952062404.881039, 3500000000, 4752.621000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1800000000 
+myID = 1 startPos = 1800000000 endPos = -694967296 
+Main: program completed. Exiting.
+DATA, 6676525569.811414, 3600000000, 10499.500000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1594967296 endPos = -694967296 
+myID = 0 startPos = 0 endPos = 900000000 
+myID = 2 startPos = 1800000000 endPos = -1594967296 
+myID = 1 startPos = 900000000 endPos = 1800000000 
+Main: program completed. Exiting.
+DATA, 9936047975.623585, 3600000000, 5643.263000, 1304, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1144967296 endPos = -694967296 
+myID = 1 startPos = 450000000 endPos = 900000000 
+myID = 5 startPos = -2044967296 endPos = -1594967296 
+myID = 3 startPos = 1350000000 endPos = 1800000000 
+myID = 0 startPos = 0 endPos = 450000000 
+myID = 4 startPos = 1800000000 endPos = -2044967296 
+myID = 2 startPos = 900000000 endPos = 1350000000 
+myID = 6 startPos = -1594967296 endPos = -1144967296 
+Main: program completed. Exiting.
+DATA, 11369373175.730461, 3600000000, 4705.228000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1850000000 
+myID = 1 startPos = 1850000000 endPos = -594967296 
+Main: program completed. Exiting.
+DATA, 6861984613.412037, 3700000000, 10874.108000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1519967296 endPos = -594967296 
+myID = 0 startPos = 0 endPos = 925000000 
+myID = 1 startPos = 925000000 endPos = 1850000000 
+myID = 2 startPos = 1850000000 endPos = -1519967296 
+Main: program completed. Exiting.
+DATA, 10271112526.936378, 3700000000, 5812.550000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1057467296 endPos = -594967296 
+myID = 1 startPos = 462500000 endPos = 925000000 
+myID = 2 startPos = 925000000 endPos = 1387500000 
+myID = 0 startPos = 0 endPos = 462500000 
+myID = 3 startPos = 1387500000 endPos = 1850000000 
+myID = 4 startPos = 1850000000 endPos = -1982467296 
+myID = 6 startPos = -1519967296 endPos = -1057467296 
+myID = 5 startPos = -1982467296 endPos = -1519967296 
+Main: program completed. Exiting.
+DATA, 11782099398.432116, 3700000000, 5260.753000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1900000000 
+myID = 1 startPos = 1900000000 endPos = -494967296 
+Main: program completed. Exiting.
+DATA, 7047443657.012260, 3800000000, 11109.606000, 1388, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1444967296 endPos = -494967296 
+myID = 1 startPos = 950000000 endPos = 1900000000 
+myID = 0 startPos = 0 endPos = 950000000 
+myID = 2 startPos = 1900000000 endPos = -1444967296 
+Main: program completed. Exiting.
+DATA, 10601874074.825697, 3800000000, 5859.877000, 1484, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 4 startPos = 1900000000 endPos = -1919967296 
+myID = 2 startPos = 950000000 endPos = 1425000000 
+myID = 3 startPos = 1425000000 endPos = 1900000000 
+myID = 7 startPos = -969967296 endPos = -494967296 
+myID = 0 startPos = 0 endPos = 475000000 
+myID = 5 startPos = -1919967296 endPos = -1444967296 
+myID = 1 startPos = 475000000 endPos = 950000000 
+myID = 6 startPos = -1444967296 endPos = -969967296 
+Main: program completed. Exiting.
+DATA, 12189863452.823372, 3800000000, 5190.199000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1950000000 
+myID = 1 startPos = 1950000000 endPos = -394967296 
+Main: program completed. Exiting.
+DATA, 7232902700.612069, 3900000000, 11444.054000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1369967296 endPos = -394967296 
+myID = 0 startPos = 0 endPos = 975000000 
+myID = 2 startPos = 1950000000 endPos = -1369967296 
+myID = 1 startPos = 975000000 endPos = 1950000000 
+Main: program completed. Exiting.
+DATA, 10928222733.266052, 3900000000, 6106.388000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1462500000 endPos = 1950000000 
+myID = 1 startPos = 487500000 endPos = 975000000 
+myID = 0 startPos = 0 endPos = 487500000 
+myID = 7 startPos = -882467296 endPos = -394967296 
+myID = 6 startPos = -1369967296 endPos = -882467296 
+myID = 5 startPos = -1857467296 endPos = -1369967296 
+myID = 2 startPos = 975000000 endPos = 1462500000 
+myID = 4 startPos = 1950000000 endPos = -1857467296 
+Main: program completed. Exiting.
+DATA, 12592399267.955849, 3900000000, 5283.498000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 2000000000 
+myID = 1 startPos = 2000000000 endPos = -294967296 
+Main: program completed. Exiting.
+DATA, 7418361744.212462, 4000000000, 11679.619000, 1468, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1294967296 endPos = -294967296 
+myID = 0 startPos = 0 endPos = 1000000000 
+myID = 1 startPos = 1000000000 endPos = 2000000000 
+myID = 2 startPos = 2000000000 endPos = -1294967296 
+Main: program completed. Exiting.
+DATA, 11250120284.616547, 4000000000, 6265.002000, 3532, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -794967296 endPos = -294967296 
+myID = 2 startPos = 1000000000 endPos = 1500000000 
+myID = 0 startPos = 0 endPos = 500000000 
+myID = 1 startPos = 500000000 endPos = 1000000000 
+myID = 4 startPos = 2000000000 endPos = -1794967296 
+myID = 6 startPos = -1294967296 endPos = -794967296 
+myID = 5 startPos = -1794967296 endPos = -1294967296 
+myID = 3 startPos = 1500000000 endPos = 2000000000 
+Main: program completed. Exiting.
+DATA, 12989538397.419445, 4000000000, 5560.659000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 2050000000 
+myID = 1 startPos = 2050000000 endPos = -194967296 
+Main: program completed. Exiting.
+DATA, 7603820787.813100, 4100000000, 12134.567000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1219967296 endPos = -194967296 
+myID = 0 startPos = 0 endPos = 1025000000 
+myID = 1 startPos = 1025000000 endPos = 2050000000 
+myID = 2 startPos = 2050000000 endPos = -1219967296 
+Main: program completed. Exiting.
+DATA, 11567588060.049185, 4100000000, 6425.087000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -707467296 endPos = -194967296 
+myID = 3 startPos = 1537500000 endPos = 2050000000 
+myID = 2 startPos = 1025000000 endPos = 1537500000 
+myID = 0 startPos = 0 endPos = 512500000 
+myID = 1 startPos = 512500000 endPos = 1025000000 
+myID = 6 startPos = -1219967296 endPos = -707467296 
+myID = 5 startPos = -1732467296 endPos = -1219967296 
+myID = 4 startPos = 2050000000 endPos = -1732467296 
+Main: program completed. Exiting.
+DATA, 13381196179.965624, 4100000000, 5233.007000, 1396, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 2100000000 
+myID = 1 startPos = 2100000000 endPos = -94967296 
+Main: program completed. Exiting.
+DATA, 7789279831.413491, 4200000000, 12269.358000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1144967296 endPos = -94967296 
+myID = 0 startPos = 0 endPos = 1050000000 
+myID = 1 startPos = 1050000000 endPos = 2100000000 
+myID = 2 startPos = 2100000000 endPos = -1144967296 
+Main: program completed. Exiting.
+DATA, 11880695671.072548, 4200000000, 6471.273000, 1296, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = -1144967296 endPos = -619967296 
+myID = 5 startPos = -1669967296 endPos = -1144967296 
+myID = 7 startPos = -619967296 endPos = -94967296 
+myID = 1 startPos = 525000000 endPos = 1050000000 
+myID = 3 startPos = 1575000000 endPos = 2100000000 
+myID = 2 startPos = 1050000000 endPos = 1575000000 
+myID = 0 startPos = 0 endPos = 525000000 
+myID = 4 startPos = 2100000000 endPos = -1669967296 
+Main: program completed. Exiting.
+DATA, 13767358499.423731, 4200000000, 5967.308000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -2144967296 
+myID = 1 startPos = -2144967296 endPos = 5032704 
+Main: program completed. Exiting.
+DATA, 7978757490.514160, 4300000000, 12652.051000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1069967296 endPos = 5032704 
+myID = 0 startPos = 0 endPos = 1075000000 
+myID = 1 startPos = 1075000000 endPos = -2144967296 
+myID = 2 startPos = -2144967296 endPos = -1069967296 
+Main: program completed. Exiting.
+DATA, 12192390496.209404, 4300000000, 6685.998000, 1488, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1612500000 endPos = -2144967296 
+myID = 1 startPos = 537500000 endPos = 1075000000 
+myID = 0 startPos = 0 endPos = 537500000 
+myID = 2 startPos = 1075000000 endPos = 1612500000 
+myID = 7 startPos = -532467296 endPos = 5032704 
+myID = 6 startPos = -1069967296 endPos = -532467296 
+myID = 5 startPos = -1607467296 endPos = -1069967296 
+myID = 4 startPos = -2144967296 endPos = -1607467296 
+Main: program completed. Exiting.
+DATA, 14149613019.080561, 4300000000, 5916.892000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -2094967296 
+myID = 1 startPos = -2094967296 endPos = 105032704 
+Main: program completed. Exiting.
+DATA, 8240946140.040120, 4400000000, 13115.173000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -994967296 endPos = 105032704 
+myID = 1 startPos = 1100000000 endPos = -2094967296 
+myID = 0 startPos = 0 endPos = 1100000000 
+myID = 2 startPos = -2094967296 endPos = -994967296 
+Main: program completed. Exiting.
+DATA, 12552570610.968269, 4400000000, 6854.003000, 1304, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -444967296 endPos = 105032704 
+myID = 0 startPos = 0 endPos = 550000000 
+myID = 1 startPos = 550000000 endPos = 1100000000 
+myID = 3 startPos = 1650000000 endPos = -2094967296 
+myID = 2 startPos = 1100000000 endPos = 1650000000 
+myID = 6 startPos = -994967296 endPos = -444967296 
+myID = 5 startPos = -1544967296 endPos = -994967296 
+myID = 4 startPos = -2094967296 endPos = -1544967296 
+Main: program completed. Exiting.
+DATA, 14555309936.707088, 4400000000, 5824.970000, 1304, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -2044967296 
+myID = 1 startPos = -2044967296 endPos = 205032704 
+Main: program completed. Exiting.
+DATA, 8497243544.464368, 4500000000, 13232.228000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -919967296 endPos = 205032704 
+myID = 0 startPos = 0 endPos = 1125000000 
+myID = 1 startPos = 1125000000 endPos = -2044967296 
+myID = 2 startPos = -2044967296 endPos = -919967296 
+Main: program completed. Exiting.
+DATA, 12906859480.642090, 4500000000, 6927.060000, 1396, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -357467296 endPos = 205032704 
+myID = 0 startPos = 0 endPos = 562500000 
+myID = 1 startPos = 562500000 endPos = 1125000000 
+myID = 3 startPos = 1687500000 endPos = -2044967296 
+myID = 5 startPos = -1482467296 endPos = -919967296 
+myID = 4 startPos = -2044967296 endPos = -1482467296 
+myID = 2 startPos = 1125000000 endPos = 1687500000 
+myID = 6 startPos = -919967296 endPos = -357467296 
+Main: program completed. Exiting.
+DATA, 14955115609.234840, 4500000000, 6072.032000, 1360, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1994967296 
+myID = 1 startPos = -1994967296 endPos = 305032704 
+Main: program completed. Exiting.
+DATA, 8747753056.107334, 4600000000, 13512.135000, 1468, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -844967296 endPos = 305032704 
+myID = 0 startPos = 0 endPos = 1150000000 
+myID = 1 startPos = 1150000000 endPos = -1994967296 
+myID = 2 startPos = -1994967296 endPos = -844967296 
+Main: program completed. Exiting.
+DATA, 13255360457.531336, 4600000000, 7046.230000, 1472, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -269967296 endPos = 305032704 
+myID = 0 startPos = 0 endPos = 575000000 
+myID = 2 startPos = 1150000000 endPos = 1725000000 
+myID = 3 startPos = 1725000000 endPos = -1994967296 
+myID = 1 startPos = 575000000 endPos = 1150000000 
+myID = 6 startPos = -844967296 endPos = -269967296 
+myID = 5 startPos = -1419967296 endPos = -844967296 
+myID = 4 startPos = -1994967296 endPos = -1419967296 
+Main: program completed. Exiting.
+DATA, 15349133388.975975, 4600000000, 6183.173000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1944967296 
+myID = 1 startPos = -1944967296 endPos = 405032704 
+Main: program completed. Exiting.
+DATA, 8992609803.543730, 4700000000, 13789.192000, 1488, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -769967296 endPos = 405032704 
+myID = 0 startPos = 0 endPos = 1175000000 
+myID = 1 startPos = 1175000000 endPos = -1944967296 
+myID = 2 startPos = -1944967296 endPos = -769967296 
+Main: program completed. Exiting.
+DATA, 13598208670.214205, 4700000000, 7196.873000, 1428, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 4 startPos = -1944967296 endPos = -1357467296 
+myID = 0 startPos = 0 endPos = 587500000 
+myID = 3 startPos = 1762500000 endPos = -1944967296 
+myID = 2 startPos = 1175000000 endPos = 1762500000 
+myID = 5 startPos = -1357467296 endPos = -769967296 
+myID = 1 startPos = 587500000 endPos = 1175000000 
+myID = 7 startPos = -182467296 endPos = 405032704 
+myID = 6 startPos = -769967296 endPos = -182467296 
+Main: program completed. Exiting.
+DATA, 15737498404.498142, 4700000000, 6236.904000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1894967296 
+myID = 1 startPos = -1894967296 endPos = 505032704 
+Main: program completed. Exiting.
+DATA, 9231973351.429295, 4800000000, 13927.481000, 1464, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -694967296 endPos = 505032704 
+myID = 0 startPos = 0 endPos = 1200000000 
+myID = 1 startPos = 1200000000 endPos = -1894967296 
+myID = 2 startPos = -1894967296 endPos = -694967296 
+Main: program completed. Exiting.
+DATA, 13935563683.347279, 4800000000, 7507.411000, 1356, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = -694967296 endPos = -94967296 
+myID = 0 startPos = 0 endPos = 600000000 
+myID = 2 startPos = 1200000000 endPos = 1800000000 
+myID = 1 startPos = 600000000 endPos = 1200000000 
+myID = 3 startPos = 1800000000 endPos = -1894967296 
+myID = 5 startPos = -1294967296 endPos = -694967296 
+myID = 7 startPos = -94967296 endPos = 505032704 
+myID = 4 startPos = -1894967296 endPos = -1294967296 
+Main: program completed. Exiting.
+DATA, 16120370220.479549, 4800000000, 5841.198000, 1396, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1844967296 
+myID = 1 startPos = -1844967296 endPos = 605032704 
+Main: program completed. Exiting.
+DATA, 9466021430.229500, 4900000000, 14311.992000, 1432, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -619967296 endPos = 605032704 
+myID = 0 startPos = 0 endPos = 1225000000 
+myID = 1 startPos = 1225000000 endPos = -1844967296 
+myID = 2 startPos = -1844967296 endPos = -619967296 
+Main: program completed. Exiting.
+DATA, 14267603227.394447, 4900000000, 7653.768000, 1468, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -7467296 endPos = 605032704 
+myID = 0 startPos = 0 endPos = 612500000 
+myID = 1 startPos = 612500000 endPos = 1225000000 
+myID = 3 startPos = 1837500000 endPos = -1844967296 
+myID = 2 startPos = 1225000000 endPos = 1837500000 
+myID = 4 startPos = -1844967296 endPos = -1232467296 
+myID = 6 startPos = -619967296 endPos = -7467296 
+myID = 5 startPos = -1232467296 endPos = -619967296 
+Main: program completed. Exiting.
+DATA, 16497926567.369753, 4900000000, 6135.104000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1794967296 
+myID = 1 startPos = -1794967296 endPos = 705032704 
+Main: program completed. Exiting.
+DATA, 9694944639.876228, 5000000000, 14600.720000, 1468, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -544967296 endPos = 705032704 
+myID = 0 startPos = 0 endPos = 1250000000 
+myID = 1 startPos = 1250000000 endPos = -1794967296 
+myID = 2 startPos = -1794967296 endPos = -544967296 
+Main: program completed. Exiting.
+DATA, 14594517902.283089, 5000000000, 7735.882000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = -1169967296 endPos = -544967296 
+myID = 6 startPos = -544967296 endPos = 80032704 
+myID = 0 startPos = 0 endPos = 625000000 
+myID = 1 startPos = 625000000 endPos = 1250000000 
+myID = 2 startPos = 1250000000 endPos = 1875000000 
+myID = 3 startPos = 1875000000 endPos = -1794967296 
+myID = 7 startPos = 80032704 endPos = 705032704 
+myID = 4 startPos = -1794967296 endPos = -1169967296 
+Main: program completed. Exiting.
+DATA, 16870358045.221941, 5000000000, 6238.257000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1744967296 
+myID = 1 startPos = -1744967296 endPos = 805032704 
+Main: program completed. Exiting.
+DATA, 9918942024.844740, 5100000000, 14869.116000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -469967296 endPos = 805032704 
+myID = 0 startPos = 0 endPos = 1275000000 
+myID = 2 startPos = -1744967296 endPos = -469967296 
+myID = 1 startPos = 1275000000 endPos = -1744967296 
+Main: program completed. Exiting.
+DATA, 14916506752.438370, 5100000000, 7849.085000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 167532704 endPos = 805032704 
+myID = 0 startPos = 0 endPos = 637500000 
+myID = 1 startPos = 637500000 endPos = 1275000000 
+myID = 3 startPos = 1912500000 endPos = -1744967296 
+myID = 2 startPos = 1275000000 endPos = 1912500000 
+myID = 5 startPos = -1107467296 endPos = -469967296 
+myID = 4 startPos = -1744967296 endPos = -1107467296 
+myID = 6 startPos = -469967296 endPos = 167532704 
+Main: program completed. Exiting.
+DATA, 17237863698.233955, 5100000000, 6441.656000, 1428, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1694967296 
+myID = 1 startPos = -1694967296 endPos = 905032704 
+Main: program completed. Exiting.
+DATA, 10138217417.896248, 5200000000, 15330.381000, 1360, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -394967296 endPos = 905032704 
+myID = 2 startPos = -1694967296 endPos = -394967296 
+myID = 1 startPos = 1300000000 endPos = -1694967296 
+myID = 0 startPos = 0 endPos = 1300000000 
+Main: program completed. Exiting.
+DATA, 15233773610.738163, 5200000000, 8079.684000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 5 startPos = -1044967296 endPos = -394967296 
+myID = 1 startPos = 650000000 endPos = 1300000000 
+myID = 2 startPos = 1300000000 endPos = 1950000000 
+myID = 6 startPos = -394967296 endPos = 255032704 
+myID = 7 startPos = 255032704 endPos = 905032704 
+myID = 0 startPos = 0 endPos = 650000000 
+myID = 4 startPos = -1694967296 endPos = -1044967296 
+myID = 3 startPos = 1950000000 endPos = -1694967296 
+Main: program completed. Exiting.
+DATA, 17600647359.391392, 5200000000, 7755.616000, 1452, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1644967296 
+myID = 1 startPos = -1644967296 endPos = 1005032704 
+Main: program completed. Exiting.
+DATA, 10352976453.696157, 5300000000, 15578.602000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -319967296 endPos = 1005032704 
+myID = 1 startPos = 1325000000 endPos = -1644967296 
+myID = 0 startPos = 0 endPos = 1325000000 
+myID = 2 startPos = -1644967296 endPos = -319967296 
+Main: program completed. Exiting.
+DATA, 15546524111.781376, 5300000000, 8261.416000, 1452, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 342532704 endPos = 1005032704 
+myID = 1 startPos = 662500000 endPos = 1325000000 
+myID = 3 startPos = 1987500000 endPos = -1644967296 
+myID = 0 startPos = 0 endPos = 662500000 
+myID = 6 startPos = -319967296 endPos = 342532704 
+myID = 2 startPos = 1325000000 endPos = 1987500000 
+myID = 4 startPos = -1644967296 endPos = -982467296 
+myID = 5 startPos = -982467296 endPos = -319967296 
+Main: program completed. Exiting.
+DATA, 17958914663.292896, 5300000000, 6483.644000, 1452, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1594967296 
+myID = 1 startPos = -1594967296 endPos = 1105032704 
+Main: program completed. Exiting.
+DATA, 10563424160.105438, 5400000000, 15901.223000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -244967296 endPos = 1105032704 
+myID = 1 startPos = 1350000000 endPos = -1594967296 
+myID = 0 startPos = 0 endPos = 1350000000 
+myID = 2 startPos = -1594967296 endPos = -244967296 
+Main: program completed. Exiting.
+DATA, 15854963283.411083, 5400000000, 8365.518000, 1488, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = -244967296 endPos = 430032704 
+myID = 7 startPos = 430032704 endPos = 1105032704 
+myID = 1 startPos = 675000000 endPos = 1350000000 
+myID = 0 startPos = 0 endPos = 675000000 
+myID = 2 startPos = 1350000000 endPos = 2025000000 
+myID = 5 startPos = -919967296 endPos = -244967296 
+myID = 4 startPos = -1594967296 endPos = -919967296 
+myID = 3 startPos = 2025000000 endPos = -1594967296 
+Main: program completed. Exiting.
+DATA, 18312870637.779972, 5400000000, 7755.873000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1544967296 
+myID = 1 startPos = -1544967296 endPos = 1205032704 
+Main: program completed. Exiting.
+DATA, 10769763043.061558, 5500000000, 16176.008000, 1488, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -169967296 endPos = 1205032704 
+myID = 0 startPos = 0 endPos = 1375000000 
+myID = 1 startPos = 1375000000 endPos = -1544967296 
+myID = 2 startPos = -1544967296 endPos = -169967296 
+Main: program completed. Exiting.
+DATA, 16159293631.613373, 5500000000, 8567.307000, 1304, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 2062500000 endPos = -1544967296 
+myID = 1 startPos = 687500000 endPos = 1375000000 
+myID = 0 startPos = 0 endPos = 687500000 
+myID = 6 startPos = -169967296 endPos = 517532704 
+myID = 4 startPos = -1544967296 endPos = -857467296 
+myID = 5 startPos = -857467296 endPos = -169967296 
+myID = 7 startPos = 517532704 endPos = 1205032704 
+myID = 2 startPos = 1375000000 endPos = 2062500000 
+Main: program completed. Exiting.
+DATA, 18662717788.838978, 5500000000, 8144.434000, 1396, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1494967296 
+myID = 1 startPos = -1494967296 endPos = 1305032704 
+Main: program completed. Exiting.
+DATA, 10972191589.524811, 5600000000, 16379.181000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -94967296 endPos = 1305032704 
+myID = 0 startPos = 0 endPos = 1400000000 
+myID = 1 startPos = 1400000000 endPos = -1494967296 
+myID = 2 startPos = -1494967296 endPos = -94967296 
+Main: program completed. Exiting.
+DATA, 16459713643.315376, 5600000000, 8699.661000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 605032704 endPos = 1305032704 
+myID = 1 startPos = 700000000 endPos = 1400000000 
+myID = 2 startPos = 1400000000 endPos = 2100000000 
+myID = 0 startPos = 0 endPos = 700000000 
+myID = 3 startPos = 2100000000 endPos = -1494967296 
+myID = 6 startPos = -94967296 endPos = 605032704 
+myID = 5 startPos = -794967296 endPos = -94967296 
+myID = 4 startPos = -1494967296 endPos = -794967296 
+Main: program completed. Exiting.
+DATA, 19008654603.397480, 5600000000, 7086.190000, 1388, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1444967296 
+myID = 1 startPos = -1444967296 endPos = 1405032704 
+Main: program completed. Exiting.
+DATA, 11170903121.774889, 5700000000, 16762.683000, 1456, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -19967296 endPos = 1405032704 
+myID = 0 startPos = 0 endPos = 1425000000 
+myID = 1 startPos = 1425000000 endPos = -1444967296 
+myID = 2 startPos = -1444967296 endPos = -19967296 
+Main: program completed. Exiting.
+DATA, 16756416640.789757, 5700000000, 8895.600000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 692532704 endPos = 1405032704 
+myID = 1 startPos = 712500000 endPos = 1425000000 
+myID = 2 startPos = 1425000000 endPos = 2137500000 
+myID = 0 startPos = 0 endPos = 712500000 
+myID = 3 startPos = 2137500000 endPos = -1444967296 
+myID = 4 startPos = -1444967296 endPos = -732467296 
+myID = 5 startPos = -732467296 endPos = -19967296 
+myID = 6 startPos = -19967296 endPos = 692532704 
+Main: program completed. Exiting.
+DATA, 19350874403.745998, 5700000000, 7841.446000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1394967296 
+myID = 1 startPos = -1394967296 endPos = 1505032704 
+Main: program completed. Exiting.
+DATA, 11366084944.660305, 5800000000, 16987.657000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 55032704 endPos = 1505032704 
+myID = 0 startPos = 0 endPos = 1450000000 
+myID = 1 startPos = 1450000000 endPos = -1394967296 
+myID = 2 startPos = -1394967296 endPos = 55032704 
+Main: program completed. Exiting.
+DATA, 17049589929.265087, 5800000000, 8904.954000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 780032704 endPos = 1505032704 
+myID = 0 startPos = 0 endPos = 725000000 
+myID = 2 startPos = 1450000000 endPos = -2119967296 
+myID = 1 startPos = 725000000 endPos = 1450000000 
+myID = 3 startPos = -2119967296 endPos = -1394967296 
+myID = 5 startPos = -669967296 endPos = 55032704 
+myID = 6 startPos = 55032704 endPos = 780032704 
+myID = 4 startPos = -1394967296 endPos = -669967296 
+Main: program completed. Exiting.
+DATA, 19703613654.428429, 5800000000, 7809.385000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1344967296 
+myID = 1 startPos = -1344967296 endPos = 1605032704 
+Main: program completed. Exiting.
+DATA, 11557917735.286749, 5900000000, 17409.108000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 130032704 endPos = 1605032704 
+myID = 0 startPos = 0 endPos = 1475000000 
+myID = 1 startPos = 1475000000 endPos = -1344967296 
+myID = 2 startPos = -1344967296 endPos = 130032704 
+Main: program completed. Exiting.
+DATA, 17339414185.139145, 5900000000, 9045.573000, 1484, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 130032704 endPos = 867532704 
+myID = 5 startPos = -607467296 endPos = 130032704 
+myID = 2 startPos = 1475000000 endPos = -2082467296 
+myID = 0 startPos = 0 endPos = 737500000 
+myID = 1 startPos = 737500000 endPos = 1475000000 
+myID = 7 startPos = 867532704 endPos = 1605032704 
+myID = 3 startPos = -2082467296 endPos = -1344967296 
+myID = 4 startPos = -1344967296 endPos = -607467296 
+Main: program completed. Exiting.
+DATA, 20057645613.642582, 5900000000, 7292.109000, 1468, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1294967296 
+myID = 1 startPos = -1294967296 endPos = 1705032704 
+Main: program completed. Exiting.
+DATA, 11746575131.710445, 6000000000, 17706.214000, 1492, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 1 startPos = 1500000000 endPos = -1294967296 
+myID = 0 startPos = 0 endPos = 1500000000 
+myID = 3 startPos = 205032704 endPos = 1705032704 
+myID = 2 startPos = -1294967296 endPos = 205032704 
+Main: program completed. Exiting.
+DATA, 17626063046.814774, 6000000000, 9317.168000, 1428, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 955032704 endPos = 1705032704 
+myID = 0 startPos = 0 endPos = 750000000 
+myID = 1 startPos = 750000000 endPos = 1500000000 
+myID = 3 startPos = -2044967296 endPos = -1294967296 
+myID = 5 startPos = -544967296 endPos = 205032704 
+myID = 2 startPos = 1500000000 endPos = -2044967296 
+myID = 6 startPos = 205032704 endPos = 955032704 
+myID = 4 startPos = -1294967296 endPos = -544967296 
+Main: program completed. Exiting.
+DATA, 20407977108.570103, 6000000000, 8033.142000, 1388, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1244967296 
+myID = 1 startPos = -1244967296 endPos = 1805032704 
+Main: program completed. Exiting.
+DATA, 11932223483.636402, 6100000000, 17899.456000, 1476, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 280032704 endPos = 1805032704 
+myID = 0 startPos = 0 endPos = 1525000000 
+myID = 2 startPos = -1244967296 endPos = 280032704 
+myID = 1 startPos = 1525000000 endPos = -1244967296 
+Main: program completed. Exiting.
+DATA, 17909702863.990486, 6100000000, 9507.326000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 280032704 endPos = 1042532704 
+myID = 7 startPos = 1042532704 endPos = 1805032704 
+myID = 0 startPos = 0 endPos = 762500000 
+myID = 3 startPos = -2007467296 endPos = -1244967296 
+myID = 1 startPos = 762500000 endPos = 1525000000 
+myID = 5 startPos = -482467296 endPos = 280032704 
+myID = 2 startPos = 1525000000 endPos = -2007467296 
+myID = 4 startPos = -1244967296 endPos = -482467296 
+Main: program completed. Exiting.
+DATA, 20754776802.770390, 6100000000, 7429.813000, 1396, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1194967296 
+myID = 1 startPos = -1194967296 endPos = 1905032704 
+Main: program completed. Exiting.
+DATA, 12115021733.781620, 6200000000, 18113.904000, 1432, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 1 startPos = 1550000000 endPos = -1194967296 
+myID = 0 startPos = 0 endPos = 1550000000 
+myID = 3 startPos = 355032704 endPos = 1905032704 
+myID = 2 startPos = -1194967296 endPos = 355032704 
+Main: program completed. Exiting.
+DATA, 18190492579.386929, 6200000000, 9650.193000, 1428, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 775000000 
+myID = 7 startPos = 1130032704 endPos = 1905032704 
+myID = 1 startPos = 775000000 endPos = 1550000000 
+myID = 2 startPos = 1550000000 endPos = -1969967296 
+myID = 4 startPos = -1194967296 endPos = -419967296 
+myID = 3 startPos = -1969967296 endPos = -1194967296 
+myID = 5 startPos = -419967296 endPos = 355032704 
+myID = 6 startPos = 355032704 endPos = 1130032704 
+Main: program completed. Exiting.
+DATA, 21098207541.124161, 6200000000, 8207.916000, 1304, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1144967296 
+myID = 1 startPos = -1144967296 endPos = 2005032704 
+Main: program completed. Exiting.
+DATA, 12295121403.527094, 6300000000, 18448.721000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 430032704 endPos = 2005032704 
+myID = 0 startPos = 0 endPos = 1575000000 
+myID = 1 startPos = 1575000000 endPos = -1144967296 
+myID = 2 startPos = -1144967296 endPos = 430032704 
+Main: program completed. Exiting.
+DATA, 18468583714.381683, 6300000000, 9647.613000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 430032704 endPos = 1217532704 
+myID = 1 startPos = 787500000 endPos = 1575000000 
+myID = 7 startPos = 1217532704 endPos = 2005032704 
+myID = 4 startPos = -1144967296 endPos = -357467296 
+myID = 2 startPos = 1575000000 endPos = -1932467296 
+myID = 0 startPos = 0 endPos = 787500000 
+myID = 3 startPos = -1932467296 endPos = -1144967296 
+myID = 5 startPos = -357467296 endPos = 430032704 
+Main: program completed. Exiting.
+DATA, 21438426110.969139, 6300000000, 9456.833000, 1396, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1094967296 
+myID = 1 startPos = -1094967296 endPos = 2105032704 
+Main: program completed. Exiting.
+DATA, 12472666660.784122, 6400000000, 18767.197000, 1488, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 505032704 endPos = 2105032704 
+myID = 0 startPos = 0 endPos = 1600000000 
+myID = 2 startPos = -1094967296 endPos = 505032704 
+myID = 1 startPos = 1600000000 endPos = -1094967296 
+Main: program completed. Exiting.
+DATA, 18744120436.889088, 6400000000, 9844.104000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 1 startPos = 800000000 endPos = 1600000000 
+myID = 4 startPos = -1094967296 endPos = -294967296 
+myID = 0 startPos = 0 endPos = 800000000 
+myID = 3 startPos = -1894967296 endPos = -1094967296 
+myID = 7 startPos = 1305032704 endPos = 2105032704 
+myID = 2 startPos = 1600000000 endPos = -1894967296 
+myID = 5 startPos = -294967296 endPos = 505032704 
+myID = 6 startPos = 505032704 endPos = 1305032704 
+Main: program completed. Exiting.
+DATA, 21775583108.502438, 6400000000, 8100.884000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -1044967296 
+myID = 1 startPos = -1044967296 endPos = -2089934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 6500000000, 0.103000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1625000000 
+myID = 1 startPos = 1625000000 endPos = -1044967296 
+myID = 3 startPos = 580032704 endPos = -2089934592 
+myID = 2 startPos = -1044967296 endPos = 580032704 
+Main: program completed. Exiting.
+DATA, 12827854625.842630, 6500000000, 10074.735000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1392532704 endPos = -2089934592 
+myID = 0 startPos = 0 endPos = 812500000 
+myID = 3 startPos = -1857467296 endPos = -1044967296 
+myID = 2 startPos = 1625000000 endPos = -1857467296 
+myID = 5 startPos = -232467296 endPos = 580032704 
+myID = 4 startPos = -1044967296 endPos = -232467296 
+myID = 6 startPos = 580032704 endPos = 1392532704 
+myID = 1 startPos = 812500000 endPos = 1625000000 
+Main: program completed. Exiting.
+DATA, 19093622041.581203, 6500000000, 5813.488000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -994967296 
+myID = 1 startPos = -994967296 endPos = -1989934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 6600000000, 0.113000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1650000000 
+myID = 1 startPos = 1650000000 endPos = -994967296 
+myID = 3 startPos = 655032704 endPos = -1989934592 
+myID = 2 startPos = -994967296 endPos = 655032704 
+Main: program completed. Exiting.
+DATA, 13029139643.637905, 6600000000, 10099.714000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1480032704 endPos = -1989934592 
+myID = 0 startPos = 0 endPos = 825000000 
+myID = 3 startPos = -1819967296 endPos = -994967296 
+myID = 1 startPos = 825000000 endPos = 1650000000 
+myID = 2 startPos = 1650000000 endPos = -1819967296 
+myID = 6 startPos = 655032704 endPos = 1480032704 
+myID = 5 startPos = -169967296 endPos = 655032704 
+myID = 4 startPos = -994967296 endPos = -169967296 
+Main: program completed. Exiting.
+DATA, 19394559797.136326, 6600000000, 7909.032000, 1388, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -944967296 
+myID = 1 startPos = -944967296 endPos = -1889934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 6700000000, 0.092000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 730032704 endPos = -1889934592 
+myID = 0 startPos = 0 endPos = 1675000000 
+myID = 1 startPos = 1675000000 endPos = -944967296 
+myID = 2 startPos = -944967296 endPos = 730032704 
+Main: program completed. Exiting.
+DATA, 13229185156.669209, 6700000000, 10384.953000, 1388, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 730032704 endPos = 1567532704 
+myID = 7 startPos = 1567532704 endPos = -1889934592 
+myID = 0 startPos = 0 endPos = 837500000 
+myID = 2 startPos = 1675000000 endPos = -1782467296 
+myID = 3 startPos = -1782467296 endPos = -944967296 
+myID = 1 startPos = 837500000 endPos = 1675000000 
+myID = 5 startPos = -107467296 endPos = 730032704 
+myID = 4 startPos = -944967296 endPos = -107467296 
+Main: program completed. Exiting.
+DATA, 19693231301.929348, 6700000000, 8145.262000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -894967296 
+myID = 1 startPos = -894967296 endPos = -1789934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 6800000000, 0.091000, 1488, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1700000000 
+myID = 1 startPos = 1700000000 endPos = -894967296 
+myID = 2 startPos = -894967296 endPos = 805032704 
+myID = 3 startPos = 805032704 endPos = -1789934592 
+Main: program completed. Exiting.
+DATA, 13428043070.387350, 6800000000, 10398.049000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1655032704 endPos = -1789934592 
+myID = 0 startPos = 0 endPos = 850000000 
+myID = 1 startPos = 850000000 endPos = 1700000000 
+myID = 2 startPos = 1700000000 endPos = -1744967296 
+myID = 5 startPos = -44967296 endPos = 805032704 
+myID = 6 startPos = 805032704 endPos = 1655032704 
+myID = 3 startPos = -1744967296 endPos = -894967296 
+myID = 4 startPos = -894967296 endPos = -44967296 
+Main: program completed. Exiting.
+DATA, 19989732117.013107, 6800000000, 8241.469000, 1388, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -844967296 
+myID = 1 startPos = -844967296 endPos = -1689934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 6900000000, 0.101000, 1308, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 880032704 endPos = -1689934592 
+myID = 1 startPos = 1725000000 endPos = -844967296 
+myID = 0 startPos = 0 endPos = 1725000000 
+myID = 2 startPos = -844967296 endPos = 880032704 
+Main: program completed. Exiting.
+DATA, 13625763611.872932, 6900000000, 10657.449000, 1296, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = 880032704 endPos = 1742532704 
+myID = 0 startPos = 0 endPos = 862500000 
+myID = 1 startPos = 862500000 endPos = 1725000000 
+myID = 2 startPos = 1725000000 endPos = -1707467296 
+myID = 7 startPos = 1742532704 endPos = -1689934592 
+myID = 3 startPos = -1707467296 endPos = -844967296 
+myID = 5 startPos = 17532704 endPos = 880032704 
+myID = 4 startPos = -844967296 endPos = 17532704 
+Main: program completed. Exiting.
+DATA, 20284154381.391079, 6900000000, 8313.312000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -794967296 
+myID = 1 startPos = -794967296 endPos = -1589934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7000000000, 0.107000, 1388, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 1 startPos = 1750000000 endPos = -794967296 
+myID = 0 startPos = 0 endPos = 1750000000 
+myID = 3 startPos = 955032704 endPos = -1589934592 
+myID = 2 startPos = -794967296 endPos = 955032704 
+Main: program completed. Exiting.
+DATA, 13822395277.934628, 7000000000, 10747.762000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1830032704 endPos = -1589934592 
+myID = 0 startPos = 0 endPos = 875000000 
+myID = 1 startPos = 875000000 endPos = 1750000000 
+myID = 2 startPos = 1750000000 endPos = -1669967296 
+myID = 3 startPos = -1669967296 endPos = -794967296 
+myID = 6 startPos = 955032704 endPos = 1830032704 
+myID = 5 startPos = 80032704 endPos = 955032704 
+myID = 4 startPos = -794967296 endPos = 80032704 
+Main: program completed. Exiting.
+DATA, 20576586781.617313, 7000000000, 8402.927000, 1304, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -744967296 
+myID = 1 startPos = -744967296 endPos = -1489934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7100000000, 0.099000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 2 startPos = -744967296 endPos = 1030032704 
+myID = 3 startPos = 1030032704 endPos = -1489934592 
+myID = 0 startPos = 0 endPos = 1775000000 
+myID = 1 startPos = 1775000000 endPos = -744967296 
+Main: program completed. Exiting.
+DATA, 14017984805.845257, 7100000000, 11026.630000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 1917532704 endPos = -1489934592 
+myID = 0 startPos = 0 endPos = 887500000 
+myID = 1 startPos = 887500000 endPos = 1775000000 
+myID = 2 startPos = 1775000000 endPos = -1632467296 
+myID = 3 startPos = -1632467296 endPos = -744967296 
+myID = 4 startPos = -744967296 endPos = 142532704 
+myID = 6 startPos = 1030032704 endPos = 1917532704 
+myID = 5 startPos = 142532704 endPos = 1030032704 
+Main: program completed. Exiting.
+DATA, 20867114555.080826, 7100000000, 8555.177000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -694967296 
+myID = 1 startPos = -694967296 endPos = -1389934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7200000000, 0.100000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1105032704 endPos = -1389934592 
+myID = 0 startPos = 0 endPos = 1800000000 
+myID = 1 startPos = 1800000000 endPos = -694967296 
+myID = 2 startPos = -694967296 endPos = 1105032704 
+Main: program completed. Exiting.
+DATA, 14212577162.709103, 7200000000, 11108.296000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 2005032704 endPos = -1389934592 
+myID = 0 startPos = 0 endPos = 900000000 
+myID = 1 startPos = 900000000 endPos = 1800000000 
+myID = 2 startPos = 1800000000 endPos = -1594967296 
+myID = 5 startPos = 205032704 endPos = 1105032704 
+myID = 6 startPos = 1105032704 endPos = 2005032704 
+myID = 3 startPos = -1594967296 endPos = -694967296 
+myID = 4 startPos = -694967296 endPos = 205032704 
+Main: program completed. Exiting.
+DATA, 21155819518.299858, 7200000000, 8622.767000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -644967296 
+myID = 1 startPos = -644967296 endPos = -1289934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7300000000, 0.102000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1180032704 endPos = -1289934592 
+myID = 0 startPos = 0 endPos = 1825000000 
+myID = 1 startPos = 1825000000 endPos = -644967296 
+myID = 2 startPos = -644967296 endPos = 1180032704 
+Main: program completed. Exiting.
+DATA, 14406215550.237633, 7300000000, 11172.301000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 2092532704 endPos = -1289934592 
+myID = 1 startPos = 912500000 endPos = 1825000000 
+myID = 0 startPos = 0 endPos = 912500000 
+myID = 5 startPos = 267532704 endPos = 1180032704 
+myID = 4 startPos = -644967296 endPos = 267532704 
+myID = 6 startPos = 1180032704 endPos = 2092532704 
+myID = 2 startPos = 1825000000 endPos = -1557467296 
+myID = 3 startPos = -1557467296 endPos = -644967296 
+Main: program completed. Exiting.
+DATA, 21442780116.938725, 7300000000, 9761.720000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -594967296 
+myID = 1 startPos = -594967296 endPos = -1189934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7400000000, 0.075000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1850000000 
+myID = 1 startPos = 1850000000 endPos = -594967296 
+myID = 3 startPos = 1255032704 endPos = -1189934592 
+myID = 2 startPos = -594967296 endPos = 1255032704 
+Main: program completed. Exiting.
+DATA, 14598941422.047844, 7400000000, 11376.587000, 1356, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -2114934592 endPos = -1189934592 
+myID = 2 startPos = 1850000000 endPos = -1519967296 
+myID = 0 startPos = 0 endPos = 925000000 
+myID = 5 startPos = 330032704 endPos = 1255032704 
+myID = 1 startPos = 925000000 endPos = 1850000000 
+myID = 6 startPos = 1255032704 endPos = -2114934592 
+myID = 4 startPos = -594967296 endPos = 330032704 
+myID = 3 startPos = -1519967296 endPos = -594967296 
+Main: program completed. Exiting.
+DATA, 21741379363.163982, 7400000000, 9237.209000, 1388, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -544967296 
+myID = 1 startPos = -544967296 endPos = -1089934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7500000000, 0.097000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1330032704 endPos = -1089934592 
+myID = 0 startPos = 0 endPos = 1875000000 
+myID = 2 startPos = -544967296 endPos = 1330032704 
+myID = 1 startPos = 1875000000 endPos = -544967296 
+Main: program completed. Exiting.
+DATA, 14790794511.030502, 7500000000, 11565.213000, 1432, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -2027434592 endPos = -1089934592 
+myID = 2 startPos = 1875000000 endPos = -1482467296 
+myID = 1 startPos = 937500000 endPos = 1875000000 
+myID = 0 startPos = 0 endPos = 937500000 
+myID = 5 startPos = 392532704 endPos = 1330032704 
+myID = 4 startPos = -544967296 endPos = 392532704 
+myID = 3 startPos = -1482467296 endPos = -544967296 
+myID = 6 startPos = 1330032704 endPos = -2027434592 
+Main: program completed. Exiting.
+DATA, 22060153679.000771, 7500000000, 9938.465000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -494967296 
+myID = 1 startPos = -494967296 endPos = -989934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7600000000, 0.073000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1900000000 
+myID = 2 startPos = -494967296 endPos = 1405032704 
+myID = 1 startPos = 1900000000 endPos = -494967296 
+myID = 3 startPos = 1405032704 endPos = -989934592 
+Main: program completed. Exiting.
+DATA, 14981812864.603565, 7600000000, 11686.653000, 1356, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1939934592 endPos = -989934592 
+myID = 0 startPos = 0 endPos = 950000000 
+myID = 2 startPos = 1900000000 endPos = -1444967296 
+myID = 5 startPos = 455032704 endPos = 1405032704 
+myID = 4 startPos = -494967296 endPos = 455032704 
+myID = 3 startPos = -1444967296 endPos = -494967296 
+myID = 1 startPos = 950000000 endPos = 1900000000 
+myID = 6 startPos = 1405032704 endPos = -1939934592 
+Main: program completed. Exiting.
+DATA, 22376370129.112198, 7600000000, 9272.872000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -444967296 
+myID = 1 startPos = -444967296 endPos = -889934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7700000000, 0.125000, 1468, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1480032704 endPos = -889934592 
+myID = 0 startPos = 0 endPos = 1925000000 
+myID = 1 startPos = 1925000000 endPos = -444967296 
+myID = 2 startPos = -444967296 endPos = 1480032704 
+Main: program completed. Exiting.
+DATA, 15172032886.821411, 7700000000, 11905.335000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1852434592 endPos = -889934592 
+myID = 2 startPos = 1925000000 endPos = -1407467296 
+myID = 1 startPos = 962500000 endPos = 1925000000 
+myID = 5 startPos = 517532704 endPos = 1480032704 
+myID = 0 startPos = 0 endPos = 962500000 
+myID = 4 startPos = -444967296 endPos = 517532704 
+myID = 6 startPos = 1480032704 endPos = -1852434592 
+myID = 3 startPos = -1407467296 endPos = -444967296 
+Main: program completed. Exiting.
+DATA, 22690078602.855236, 7700000000, 9641.529000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -394967296 
+myID = 1 startPos = -394967296 endPos = -789934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7800000000, 0.122000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1555032704 endPos = -789934592 
+myID = 1 startPos = 1950000000 endPos = -394967296 
+myID = 0 startPos = 0 endPos = 1950000000 
+myID = 2 startPos = -394967296 endPos = 1555032704 
+Main: program completed. Exiting.
+DATA, 15361489384.039097, 7800000000, 12031.642000, 1464, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1764934592 endPos = -789934592 
+myID = 1 startPos = 975000000 endPos = 1950000000 
+myID = 0 startPos = 0 endPos = 975000000 
+myID = 5 startPos = 580032704 endPos = 1555032704 
+myID = 3 startPos = -1369967296 endPos = -394967296 
+myID = 2 startPos = 1950000000 endPos = -1369967296 
+myID = 6 startPos = 1555032704 endPos = -1764934592 
+myID = 4 startPos = -394967296 endPos = 580032704 
+Main: program completed. Exiting.
+DATA, 23001331837.324356, 7800000000, 9706.514000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -344967296 
+myID = 1 startPos = -344967296 endPos = -689934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 7900000000, 0.069000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1975000000 
+myID = 2 startPos = -344967296 endPos = 1630032704 
+myID = 1 startPos = 1975000000 endPos = -344967296 
+myID = 3 startPos = 1630032704 endPos = -689934592 
+Main: program completed. Exiting.
+DATA, 15550215615.268196, 7900000000, 12105.798000, 1400, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1677434592 endPos = -689934592 
+myID = 1 startPos = 987500000 endPos = 1975000000 
+myID = 0 startPos = 0 endPos = 987500000 
+myID = 2 startPos = 1975000000 endPos = -1332467296 
+myID = 5 startPos = 642532704 endPos = 1630032704 
+myID = 6 startPos = 1630032704 endPos = -1677434592 
+myID = 3 startPos = -1332467296 endPos = -344967296 
+myID = 4 startPos = -344967296 endPos = 642532704 
+Main: program completed. Exiting.
+DATA, 23310184943.601852, 7900000000, 10542.324000, 1356, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -294967296 
+myID = 1 startPos = -294967296 endPos = -589934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 8000000000, 0.099000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 2000000000 
+myID = 2 startPos = -294967296 endPos = 1705032704 
+myID = 1 startPos = 2000000000 endPos = -294967296 
+myID = 3 startPos = 1705032704 endPos = -589934592 
+Main: program completed. Exiting.
+DATA, 15738243344.341932, 8000000000, 12344.870000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 4 startPos = -294967296 endPos = 705032704 
+myID = 5 startPos = 705032704 endPos = 1705032704 
+myID = 1 startPos = 1000000000 endPos = 2000000000 
+myID = 7 startPos = -1589934592 endPos = -589934592 
+myID = 6 startPos = 1705032704 endPos = -1589934592 
+myID = 2 startPos = 2000000000 endPos = -1294967296 
+myID = 0 startPos = 0 endPos = 1000000000 
+myID = 3 startPos = -1294967296 endPos = -294967296 
+Main: program completed. Exiting.
+DATA, 23616694963.308376, 8000000000, 9591.750000, 1316, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -244967296 
+myID = 1 startPos = -244967296 endPos = -489934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 8100000000, 0.093000, 1432, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 1780032704 endPos = -489934592 
+myID = 1 startPos = 2025000000 endPos = -244967296 
+myID = 2 startPos = -244967296 endPos = 1780032704 
+myID = 0 startPos = 0 endPos = 2025000000 
+Main: program completed. Exiting.
+DATA, 15925602893.796206, 8100000000, 12477.739000, 1464, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1502434592 endPos = -489934592 
+myID = 1 startPos = 1012500000 endPos = 2025000000 
+myID = 2 startPos = 2025000000 endPos = -1257467296 
+myID = 0 startPos = 0 endPos = 1012500000 
+myID = 4 startPos = -244967296 endPos = 767532704 
+myID = 6 startPos = 1780032704 endPos = -1502434592 
+myID = 5 startPos = 767532704 endPos = 1780032704 
+myID = 3 startPos = -1257467296 endPos = -244967296 
+Main: program completed. Exiting.
+DATA, 23920920457.058586, 8100000000, 9794.765000, 1400, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -194967296 
+myID = 1 startPos = -194967296 endPos = -389934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 8200000000, 0.150000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 2 startPos = -194967296 endPos = 1855032704 
+myID = 3 startPos = 1855032704 endPos = -389934592 
+myID = 1 startPos = 2050000000 endPos = -194967296 
+myID = 0 startPos = 0 endPos = 2050000000 
+Main: program completed. Exiting.
+DATA, 16112323199.736870, 8200000000, 12662.261000, 1468, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1414934592 endPos = -389934592 
+myID = 1 startPos = 1025000000 endPos = 2050000000 
+myID = 0 startPos = 0 endPos = 1025000000 
+myID = 2 startPos = 2050000000 endPos = -1219967296 
+myID = 5 startPos = 830032704 endPos = 1855032704 
+myID = 6 startPos = 1855032704 endPos = -1414934592 
+myID = 4 startPos = -194967296 endPos = 830032704 
+myID = 3 startPos = -1219967296 endPos = -194967296 
+Main: program completed. Exiting.
+DATA, 24222921125.190922, 8200000000, 10943.445000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -144967296 
+myID = 1 startPos = -144967296 endPos = -289934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 8300000000, 0.072000, 1316, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 2075000000 
+myID = 2 startPos = -144967296 endPos = 1930032704 
+myID = 1 startPos = 2075000000 endPos = -144967296 
+myID = 3 startPos = 1930032704 endPos = -289934592 
+Main: program completed. Exiting.
+DATA, 16298431866.613300, 8300000000, 12827.144000, 1468, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1327434592 endPos = -289934592 
+myID = 1 startPos = 1037500000 endPos = 2075000000 
+myID = 2 startPos = 2075000000 endPos = -1182467296 
+myID = 0 startPos = 0 endPos = 1037500000 
+myID = 5 startPos = 892532704 endPos = 1930032704 
+myID = 6 startPos = 1930032704 endPos = -1327434592 
+myID = 3 startPos = -1182467296 endPos = -144967296 
+myID = 4 startPos = -144967296 endPos = 892532704 
+Main: program completed. Exiting.
+DATA, 24522757460.124424, 8300000000, 10998.893000, 1304, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -94967296 
+myID = 1 startPos = -94967296 endPos = -189934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 8400000000, 0.077000, 1392, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 2100000000 
+myID = 2 startPos = -94967296 endPos = 2005032704 
+myID = 1 startPos = 2100000000 endPos = -94967296 
+myID = 3 startPos = 2005032704 endPos = -189934592 
+Main: program completed. Exiting.
+DATA, 16483955222.097271, 8400000000, 12975.865000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1239934592 endPos = -189934592 
+myID = 0 startPos = 0 endPos = 1050000000 
+myID = 1 startPos = 1050000000 endPos = 2100000000 
+myID = 2 startPos = 2100000000 endPos = -1144967296 
+myID = 3 startPos = -1144967296 endPos = -94967296 
+myID = 6 startPos = 2005032704 endPos = -1239934592 
+myID = 5 startPos = 955032704 endPos = 2005032704 
+myID = 4 startPos = -94967296 endPos = 955032704 
+Main: program completed. Exiting.
+DATA, 24820490430.462528, 8400000000, 11129.134000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = -44967296 
+myID = 1 startPos = -44967296 endPos = -89934592 
+Main: program completed. Exiting.
+DATA, 0.000000, 8500000000, 0.163000, 1292, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = 2080032704 endPos = -89934592 
+myID = 0 startPos = 0 endPos = 2125000000 
+myID = 2 startPos = -44967296 endPos = 2080032704 
+myID = 1 startPos = 2125000000 endPos = -44967296 
+Main: program completed. Exiting.
+DATA, 16668918371.222118, 8500000000, 13120.904000, 1292, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1152434592 endPos = -89934592 
+myID = 0 startPos = 0 endPos = 1062500000 
+myID = 4 startPos = -44967296 endPos = 1017532704 
+myID = 2 startPos = 2125000000 endPos = -1107467296 
+myID = 3 startPos = -1107467296 endPos = -44967296 
+myID = 6 startPos = 2080032704 endPos = -1152434592 
+myID = 1 startPos = 1062500000 endPos = 2125000000 
+myID = 5 startPos = 1017532704 endPos = 2080032704 
+Main: program completed. Exiting.
+DATA, 25116181195.496658, 8500000000, 10191.485000, 1432, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 5032704 
+myID = 1 startPos = 5032704 endPos = 10065408 
+Main: program completed. Exiting.
+DATA, 40261613.616186, 8600000000, 82.727000, 1388, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 1 startPos = -2144967296 endPos = 5032704 
+myID = 0 startPos = 0 endPos = -2144967296 
+myID = 3 startPos = -2139934592 endPos = 10065408 
+myID = 2 startPos = 5032704 endPos = -2139934592 
+Main: program completed. Exiting.
+DATA, 16858071470.177963, 8600000000, 13326.524000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -1064934592 endPos = 10065408 
+myID = 0 startPos = 0 endPos = 1075000000 
+myID = 3 startPos = -1069967296 endPos = 5032704 
+myID = 2 startPos = -2144967296 endPos = -1069967296 
+myID = 4 startPos = 5032704 endPos = 1080032704 
+myID = 1 startPos = 1075000000 endPos = -2144967296 
+myID = 5 startPos = 1080032704 endPos = -2139934592 
+myID = 6 startPos = -2139934592 endPos = -1064934592 
+Main: program completed. Exiting.
+DATA, 25413383962.061905, 8600000000, 10396.979000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 55032704 
+myID = 1 startPos = 55032704 endPos = 110065408 
+Main: program completed. Exiting.
+DATA, 440238145.891181, 8700000000, 489.758000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -2064934592 endPos = 110065408 
+myID = 0 startPos = 0 endPos = -2119967296 
+myID = 2 startPos = 55032704 endPos = -2064934592 
+myID = 1 startPos = -2119967296 endPos = 55032704 
+Main: program completed. Exiting.
+DATA, 17087811396.832115, 8700000000, 13379.237000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 6 startPos = -2064934592 endPos = -977434592 
+myID = 5 startPos = 1142532704 endPos = -2064934592 
+myID = 0 startPos = 0 endPos = 1087500000 
+myID = 1 startPos = 1087500000 endPos = -2119967296 
+myID = 2 startPos = -2119967296 endPos = -1032467296 
+myID = 4 startPos = 55032704 endPos = 1142532704 
+myID = 3 startPos = -1032467296 endPos = 55032704 
+myID = 7 startPos = -977434592 endPos = 110065408 
+Main: program completed. Exiting.
+DATA, 25739363917.000427, 8700000000, 10409.846000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 105032704 
+myID = 1 startPos = 105032704 endPos = 210065408 
+Main: program completed. Exiting.
+DATA, 840102085.027466, 8800000000, 785.135000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1989934592 endPos = 210065408 
+myID = 0 startPos = 0 endPos = -2094967296 
+myID = 1 startPos = -2094967296 endPos = 105032704 
+myID = 2 startPos = 105032704 endPos = -1989934592 
+Main: program completed. Exiting.
+DATA, 17315030591.862045, 8800000000, 13492.768000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -889934592 endPos = 210065408 
+myID = 2 startPos = -2094967296 endPos = -994967296 
+myID = 3 startPos = -994967296 endPos = 105032704 
+myID = 1 startPos = 1100000000 endPos = -2094967296 
+myID = 0 startPos = 0 endPos = 1100000000 
+myID = 4 startPos = 105032704 endPos = 1205032704 
+myID = 5 startPos = 1205032704 endPos = -1989934592 
+myID = 6 startPos = -1989934592 endPos = -889934592 
+Main: program completed. Exiting.
+DATA, 26062552865.290878, 8800000000, 10514.541000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 155032704 
+myID = 1 startPos = 155032704 endPos = 310065408 
+Main: program completed. Exiting.
+DATA, 1239760210.951473, 8900000000, 976.045000, 1484, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1914934592 endPos = 310065408 
+myID = 0 startPos = 0 endPos = -2069967296 
+myID = 1 startPos = -2069967296 endPos = 155032704 
+myID = 2 startPos = 155032704 endPos = -1914934592 
+Main: program completed. Exiting.
+DATA, 17539783017.504791, 8900000000, 13789.199000, 1428, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 1 startPos = 1112500000 endPos = -2069967296 
+myID = 7 startPos = -802434592 endPos = 310065408 
+myID = 0 startPos = 0 endPos = 1112500000 
+myID = 2 startPos = -2069967296 endPos = -957467296 
+myID = 3 startPos = -957467296 endPos = 155032704 
+myID = 4 startPos = 155032704 endPos = 1267532704 
+myID = 5 startPos = 1267532704 endPos = -1914934592 
+myID = 6 startPos = -1914934592 endPos = -802434592 
+Main: program completed. Exiting.
+DATA, 26383015127.160915, 8900000000, 10668.584000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 205032704 
+myID = 1 startPos = 205032704 endPos = 410065408 
+Main: program completed. Exiting.
+DATA, 1639127998.590090, 9000000000, 1279.953000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1839934592 endPos = 410065408 
+myID = 0 startPos = 0 endPos = -2044967296 
+myID = 1 startPos = -2044967296 endPos = 205032704 
+myID = 2 startPos = 205032704 endPos = -1839934592 
+Main: program completed. Exiting.
+DATA, 17762124186.014297, 9000000000, 13927.396000, 1296, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -714934592 endPos = 410065408 
+myID = 0 startPos = 0 endPos = 1125000000 
+myID = 2 startPos = -2044967296 endPos = -919967296 
+myID = 1 startPos = 1125000000 endPos = -2044967296 
+myID = 3 startPos = -919967296 endPos = 205032704 
+myID = 5 startPos = 1330032704 endPos = -1839934592 
+myID = 6 startPos = -1839934592 endPos = -714934592 
+myID = 4 startPos = 205032704 endPos = 1330032704 
+Main: program completed. Exiting.
+DATA, 26700816143.897243, 9000000000, 10800.039000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 255032704 
+myID = 1 startPos = 255032704 endPos = 510065408 
+Main: program completed. Exiting.
+DATA, 2038128999.777632, 9100000000, 1666.679000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1764934592 endPos = 510065408 
+myID = 0 startPos = 0 endPos = -2019967296 
+myID = 1 startPos = -2019967296 endPos = 255032704 
+myID = 2 startPos = 255032704 endPos = -1764934592 
+Main: program completed. Exiting.
+DATA, 17982110794.672836, 9100000000, 14059.925000, 1468, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1137500000 
+myID = 7 startPos = -627434592 endPos = 510065408 
+myID = 3 startPos = -882467296 endPos = 255032704 
+myID = 2 startPos = -2019967296 endPos = -882467296 
+myID = 4 startPos = 255032704 endPos = 1392532704 
+myID = 1 startPos = 1137500000 endPos = -2019967296 
+myID = 6 startPos = -1764934592 endPos = -627434592 
+myID = 5 startPos = 1392532704 endPos = -1764934592 
+Main: program completed. Exiting.
+DATA, 27016022129.044292, 9100000000, 10996.624000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 305032704 
+myID = 1 startPos = 305032704 endPos = 610065408 
+Main: program completed. Exiting.
+DATA, 2436694258.730341, 9200000000, 1869.434000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1689934592 endPos = 610065408 
+myID = 0 startPos = 0 endPos = -1994967296 
+myID = 2 startPos = 305032704 endPos = -1689934592 
+myID = 1 startPos = -1994967296 endPos = 305032704 
+Main: program completed. Exiting.
+DATA, 18199800395.664268, 9200000000, 14237.322000, 1492, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 1150000000 
+myID = 7 startPos = -539934592 endPos = 610065408 
+myID = 2 startPos = -1994967296 endPos = -844967296 
+myID = 3 startPos = -844967296 endPos = 305032704 
+myID = 4 startPos = 305032704 endPos = 1455032704 
+myID = 1 startPos = 1150000000 endPos = -1994967296 
+myID = 6 startPos = -1689934592 endPos = -539934592 
+myID = 5 startPos = 1455032704 endPos = -1689934592 
+Main: program completed. Exiting.
+DATA, 27328699754.496357, 9200000000, 11001.849000, 1460, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 355032704 
+myID = 1 startPos = 355032704 endPos = 710065408 
+Main: program completed. Exiting.
+DATA, 2834761760.632329, 9300000000, 2247.057000, 1476, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1614934592 endPos = 710065408 
+myID = 0 startPos = 0 endPos = -1969967296 
+myID = 1 startPos = -1969967296 endPos = 355032704 
+myID = 2 startPos = 355032704 endPos = -1614934592 
+Main: program completed. Exiting.
+DATA, 18415251099.273064, 9300000000, 14394.067000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -452434592 endPos = 710065408 
+myID = 0 startPos = 0 endPos = 1162500000 
+myID = 1 startPos = 1162500000 endPos = -1969967296 
+myID = 2 startPos = -1969967296 endPos = -807467296 
+myID = 5 startPos = 1517532704 endPos = -1614934592 
+myID = 4 startPos = 355032704 endPos = 1517532704 
+myID = 6 startPos = -1614934592 endPos = -452434592 
+myID = 3 startPos = -807467296 endPos = 355032704 
+Main: program completed. Exiting.
+DATA, 27638915868.829720, 9300000000, 11228.739000, 1476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 405032704 
+myID = 1 startPos = 405032704 endPos = 810065408 
+Main: program completed. Exiting.
+DATA, 3232275912.642156, 9400000000, 2566.563000, 1460, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1539934592 endPos = 810065408 
+myID = 1 startPos = -1944967296 endPos = 405032704 
+myID = 0 startPos = 0 endPos = -1944967296 
+myID = 2 startPos = 405032704 endPos = -1539934592 
+Main: program completed. Exiting.
+DATA, 18628521307.728897, 9400000000, 14552.324000, 1476, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -364934592 endPos = 810065408 
+myID = 0 startPos = 0 endPos = 1175000000 
+myID = 1 startPos = 1175000000 endPos = -1944967296 
+myID = 3 startPos = -769967296 endPos = 405032704 
+myID = 5 startPos = 1580032704 endPos = -1539934592 
+myID = 6 startPos = -1539934592 endPos = -364934592 
+myID = 4 startPos = 405032704 endPos = 1580032704 
+myID = 2 startPos = -1944967296 endPos = -769967296 
+Main: program completed. Exiting.
+DATA, 27946737247.615990, 9400000000, 11266.820000, 1392, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 455032704 
+myID = 1 startPos = 455032704 endPos = 910065408 
+Main: program completed. Exiting.
+DATA, 3629187056.423404, 9500000000, 2834.505000, 1356, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1464934592 endPos = 910065408 
+myID = 0 startPos = 0 endPos = -1919967296 
+myID = 1 startPos = -1919967296 endPos = 455032704 
+myID = 2 startPos = 455032704 endPos = -1464934592 
+Main: program completed. Exiting.
+DATA, 18839669478.001587, 9500000000, 14699.463000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -277434592 endPos = 910065408 
+myID = 0 startPos = 0 endPos = 1187500000 
+myID = 1 startPos = 1187500000 endPos = -1919967296 
+myID = 2 startPos = -1919967296 endPos = -732467296 
+myID = 5 startPos = 1642532704 endPos = -1464934592 
+myID = 6 startPos = -1464934592 endPos = -277434592 
+myID = 4 startPos = 455032704 endPos = 1642532704 
+myID = 3 startPos = -732467296 endPos = 455032704 
+Main: program completed. Exiting.
+DATA, 28252230369.929909, 9500000000, 11369.234000, 1484, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 505032704 
+myID = 1 startPos = 505032704 endPos = 1010065408 
+Main: program completed. Exiting.
+DATA, 4025451011.158116, 9600000000, 3119.953000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1389934592 endPos = 1010065408 
+myID = 1 startPos = -1894967296 endPos = 505032704 
+myID = 0 startPos = 0 endPos = -1894967296 
+myID = 2 startPos = 505032704 endPos = -1389934592 
+Main: program completed. Exiting.
+DATA, 19048753911.491699, 9600000000, 14802.811000, 1316, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 4 startPos = 505032704 endPos = 1705032704 
+myID = 5 startPos = 1705032704 endPos = -1389934592 
+myID = 1 startPos = 1200000000 endPos = -1894967296 
+myID = 0 startPos = 0 endPos = 1200000000 
+myID = 2 startPos = -1894967296 endPos = -694967296 
+myID = 3 startPos = -694967296 endPos = 505032704 
+myID = 7 startPos = -189934592 endPos = 1010065408 
+myID = 6 startPos = -1389934592 endPos = -189934592 
+Main: program completed. Exiting.
+DATA, 28555461223.300037, 9600000000, 12827.139000, 3476, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 555032704 
+myID = 1 startPos = 555032704 endPos = 1110065408 
+Main: program completed. Exiting.
+DATA, 4421028645.884312, 9700000000, 3422.732000, 1304, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1314934592 endPos = 1110065408 
+myID = 1 startPos = -1869967296 endPos = 555032704 
+myID = 2 startPos = 555032704 endPos = -1314934592 
+myID = 0 startPos = 0 endPos = -1869967296 
+Main: program completed. Exiting.
+DATA, 19255832568.421341, 9700000000, 14942.508000, 3532, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -102434592 endPos = 1110065408 
+myID = 1 startPos = 1212500000 endPos = -1869967296 
+myID = 0 startPos = 0 endPos = 1212500000 
+myID = 4 startPos = 555032704 endPos = 1767532704 
+myID = 3 startPos = -657467296 endPos = 555032704 
+myID = 5 startPos = 1767532704 endPos = -1314934592 
+myID = 2 startPos = -1869967296 endPos = -657467296 
+myID = 6 startPos = -1314934592 endPos = -102434592 
+Main: program completed. Exiting.
+DATA, 28856495132.256546, 9700000000, 12095.066000, 1488, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 605032704 
+myID = 1 startPos = 605032704 endPos = 1210065408 
+Main: program completed. Exiting.
+DATA, 4815885479.917511, 9800000000, 3848.899000, 1432, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1239934592 endPos = 1210065408 
+myID = 1 startPos = -1844967296 endPos = 605032704 
+myID = 0 startPos = 0 endPos = -1844967296 
+myID = 2 startPos = 605032704 endPos = -1239934592 
+Main: program completed. Exiting.
+DATA, 19460962905.278023, 9800000000, 15104.250000, 1460, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = -14934592 endPos = 1210065408 
+myID = 1 startPos = 1225000000 endPos = -1844967296 
+myID = 0 startPos = 0 endPos = 1225000000 
+myID = 2 startPos = -1844967296 endPos = -619967296 
+myID = 6 startPos = -1239934592 endPos = -14934592 
+myID = 5 startPos = 1830032704 endPos = -1239934592 
+myID = 4 startPos = 605032704 endPos = 1830032704 
+myID = 3 startPos = -619967296 endPos = 605032704 
+Main: program completed. Exiting.
+DATA, 29155396609.244743, 9800000000, 13089.204000, 1292, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 655032704 
+myID = 1 startPos = 655032704 endPos = 1310065408 
+Main: program completed. Exiting.
+DATA, 5209991310.073811, 9900000000, 4119.102000, 1396, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1164934592 endPos = 1310065408 
+myID = 1 startPos = -1819967296 endPos = 655032704 
+myID = 0 startPos = 0 endPos = -1819967296 
+myID = 2 startPos = 655032704 endPos = -1164934592 
+Main: program completed. Exiting.
+DATA, 19664201733.301003, 9900000000, 15279.956000, 1388, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 72565408 endPos = 1310065408 
+myID = 0 startPos = 0 endPos = 1237500000 
+myID = 2 startPos = -1819967296 endPos = -582467296 
+myID = 5 startPos = 1892532704 endPos = -1164934592 
+myID = 4 startPos = 655032704 endPos = 1892532704 
+myID = 1 startPos = 1237500000 endPos = -1819967296 
+myID = 6 startPos = -1164934592 endPos = 72565408 
+myID = 3 startPos = -582467296 endPos = 655032704 
+Main: program completed. Exiting.
+DATA, 29452229226.923538, 9900000000, 13186.581000, 3404, 8, OpenMp 
+DEBUG: starting loop on (null)
+myID = 0 startPos = 0 endPos = 705032704 
+myID = 1 startPos = 705032704 endPos = 1410065408 
+Main: program completed. Exiting.
+DATA, 5603319863.364379, 10000000000, 4355.037000, 1428, 2, OpenMp 
+DEBUG: starting loop on (null)
+myID = 3 startPos = -1089934592 endPos = 1410065408 
+myID = 0 startPos = 0 endPos = -1794967296 
+myID = 1 startPos = -1794967296 endPos = 705032704 
+myID = 2 startPos = 705032704 endPos = -1089934592 
+Main: program completed. Exiting.
+DATA, 19865605095.988091, 10000000000, 15379.456000, 1392, 4, OpenMp 
+DEBUG: starting loop on (null)
+myID = 7 startPos = 160065408 endPos = 1410065408 
+myID = 0 startPos = 0 endPos = 1250000000 
+myID = 5 startPos = 1955032704 endPos = -1089934592 
+myID = 4 startPos = 705032704 endPos = 1955032704 
+myID = 3 startPos = -544967296 endPos = 705032704 
+myID = 6 startPos = -1089934592 endPos = 160065408 
+myID = 2 startPos = -1794967296 endPos = -544967296 
+myID = 1 startPos = 1250000000 endPos = -1794967296 
+Main: program completed. Exiting.
+DATA, 29747055506.266846, 10000000000, 12306.150000, 1356, 8, OpenMp 
